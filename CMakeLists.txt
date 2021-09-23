@@ -1,3 +1,4 @@
+# This CMakeLists.txt project is for Ubuntu only
 project(main)
 set(CMAKE_CXX_STANDARD 11)
 link_libraries(
