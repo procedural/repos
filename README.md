@@ -234,12 +234,6 @@ https://github.com/procedural/c_strtok_r_crash
 542a8962fc103fc969f7c7cf099da57ad79619d8	refs/heads/master
 ```
 
-https://github.com/procedural/c_structs_by_value
-```
-c0746aa50c2fcfaef1038a973b78b7ffb9b14641	HEAD
-c0746aa50c2fcfaef1038a973b78b7ffb9b14641	refs/heads/master
-```
-
 https://github.com/procedural/c_structure_packing
 ```
 b55c98ef0951e437f2d66bbcfa7977547f67f2c5	HEAD
@@ -492,8 +486,8 @@ d45b77c45a6af99e079892dddbf057a347a4067a	refs/heads/main
 
 https://github.com/procedural/have_you_tried
 ```
-da799e21c764fcb0c451405b5de457ec1b374dbd	HEAD
-da799e21c764fcb0c451405b5de457ec1b374dbd	refs/heads/main
+041fd023c843bebd3ab8a8f2a9994dcbeca4d0fa	HEAD
+041fd023c843bebd3ab8a8f2a9994dcbeca4d0fa	refs/heads/main
 ```
 
 https://github.com/procedural/hello_world
@@ -534,6 +528,53 @@ https://github.com/procedural/ipfs
 ```
 2eb257d7a84903b54ac641735c5966e669c8021b	HEAD
 2eb257d7a84903b54ac641735c5966e669c8021b	refs/heads/main
+```
+
+https://github.com/procedural/JoyShockMapper
+```
+d405f018ac92478f43c0c25f16d8dcb539495421	HEAD
+4dcab473bd3db12d329de0f1080143e7a1e4a554	refs/heads/FSM
+cbb7480546ea22503565f453f9ec4af93b632cf7	refs/heads/fsm
+528336a39f085569d96c0dc79e4a27490acc6873	refs/heads/gyrospace
+954e2fc6d0a0099e39f518dc698911f8223c747c	refs/heads/hidhide
+b2f88e647c77e71210d2afe5d4c5876df2caa41c	refs/heads/jibbsdl2
+cfb216a470a9c7417580e122e5626a1454dbd4b2	refs/heads/joystick
+515398fb1f8bf8e3b1de794994687096db1b8f0a	refs/heads/linux
+d405f018ac92478f43c0c25f16d8dcb539495421	refs/heads/master
+f4c7c4039e6d6420990c5eb93923b19021174089	refs/heads/next
+02e721b582ab66242978ad372d6441251d20cace	refs/heads/sdl2
+f861f9a2c0e0b4856da868e07354ca526619a879	refs/heads/steamcontroller
+05103cd45eb498fc2168661db07e144da6e4f6f4	refs/heads/unittest
+739ac148bc84b91d733917e754cba93c488debf9	refs/heads/vigem
+0e433cb64a145e594d59e1693b42ef56f78ed29e	refs/tags/3.0.1
+d1c2fa36a002c70ab0398565569492d446d443e3	refs/tags/v1.0.0
+3e32ffc0810be9a2b75c42cfcb392db9f730760b	refs/tags/v1.0.1
+8a62834c09c36a84bb9d35315927288406c4a58a	refs/tags/v1.0.2
+9c7e6b98f08925a629314ea6c982336c49189708	refs/tags/v1.1.0
+453ebe332fdade9eccb6bd60b5bc0e7f6a9bfcf8	refs/tags/v1.2.0
+156af8aeffa5bc52cb05862384e8987aa22be5d7	refs/tags/v1.3.0
+9e8bb8f37f3f3abd5d63871ce3b9c5dc9fb5e4e1	refs/tags/v1.4.0
+c1556dbb498b3f5d8f51f6d1edb30ed56bda907f	refs/tags/v1.4.1
+3eb6a664063f3f444f1e5a2ae9100b4d01121cc9	refs/tags/v1.4.2
+445d7ae5744143ffd07c5c4c6d94839a8ec154ee	refs/tags/v1.5.0
+be492882b671e97f07e6fad458d09eba41747706	refs/tags/v1.6.0
+0155fa22712a350e2e243ea743663a886ed9115d	refs/tags/v1.6.1
+4d43cacc15d343c13ed70e02ef41e8f1d6b81b29	refs/tags/v2.0.0
+08ffce306ce656e1afe55990fc9db71d1a69ce83	refs/tags/v2.0.1
+18cd4f434568159bf484bc6df8e6947208bbd7ad	refs/tags/v2.0.2
+c9fab18e11e9f44aba31cc95bd1d59f34bdabb13	refs/tags/v2.0.3
+3701f729a6967f6d8cb4cd9997470bd201507313	refs/tags/v2.1.0
+8e6e3c285f98c96e3e235532fdb3123a4c2bcedf	refs/tags/v2.2.0
+d69549acafd75e2dfe6b911e183bf5e74e240954	refs/tags/v3
+f5579540ba1654c0d4608c00e49ca61c5685d852	refs/tags/v3.0.0
+952c805dc01b534a88cf35c9c64aa5137ab9c9e5	refs/tags/v3.0.1
+87fe94c3227cc57545e62bff1c787d0b72c8cd84	refs/tags/v3.0.2
+a3f8802e3c5af1c31cf33219c05c5f92e9a2b13e	refs/tags/v3.1.0
+4714520e4f40e782441d55956db27894f9e12a36	refs/tags/v3.1.1
+1de44ed6ca194fae582ea4a9861e8b830c6614c2	refs/tags/v3.2.0
+fea3243681c0eaf0406990c21dfaea02e86dd155	refs/tags/v3.2.1
+3be28236c828bdf67a9082a2e0283941ca9655cb	refs/tags/v3.2.2
+d405f018ac92478f43c0c25f16d8dcb539495421	refs/tags/v3.2.3
 ```
 
 https://github.com/procedural/kate_themes
@@ -908,6 +949,12 @@ https://github.com/procedural/redgpu_helper
 4b13685d9937ce3faaeee895e1e6d5a945e37150	refs/heads/master
 ```
 
+https://github.com/procedural/redgpu_info
+```
+6c2d07f1d0e418a7de983e0278e3c370954a7eed	HEAD
+6c2d07f1d0e418a7de983e0278e3c370954a7eed	refs/heads/master
+```
+
 https://github.com/procedural/redgpu_inline_procedure
 ```
 0ca77635c7b8ad8e2d6132075fdb94777ca68ff1	HEAD
@@ -958,8 +1005,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-3b720c2cd884921c17af06faec2fd0a342bb3c38	HEAD
-3b720c2cd884921c17af06faec2fd0a342bb3c38	refs/heads/master
+9851e9db915ead91ac878ef321b3328fecb33f64	HEAD
+9851e9db915ead91ac878ef321b3328fecb33f64	refs/heads/master
 ```
 
 https://github.com/procedural/rev
