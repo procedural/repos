@@ -362,6 +362,12 @@ https://github.com/procedural/FWK_24_Mar_2021
 7b1ae6fc8d0ee14b54e429a4fb410c3fca669d39	refs/heads/master
 ```
 
+https://github.com/procedural/FWK_25_Sep_2021
+```
+01d6cd41bc678546e7ab963691bcf8820a4b9d24	HEAD
+01d6cd41bc678546e7ab963691bcf8820a4b9d24	refs/heads/master
+```
+
 https://github.com/procedural/FWK_27_Aug_2021
 ```
 23d33a547c213c06dc9d771b4f7d157d5be31c4f	HEAD
@@ -823,6 +829,12 @@ b3ad060bc2353346a00ce69e3cf1c8fa5fb83307	refs/tags/1.62^{}
 15b0c7fb2d5adb262ff067c93feec1e998ad9048	refs/tags/OF_090_RC
 ```
 
+https://github.com/procedural/opencl_c
+```
+e0e7ef5afb2f6cbc12e8b7f8bc8c3381a035a23e	HEAD
+e0e7ef5afb2f6cbc12e8b7f8bc8c3381a035a23e	refs/heads/main
+```
+
 https://github.com/procedural/perftest
 ```
 d75b3af867cf1fe7177bb1396fda54cae7eb8f83	HEAD
@@ -1005,8 +1017,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-9851e9db915ead91ac878ef321b3328fecb33f64	HEAD
-9851e9db915ead91ac878ef321b3328fecb33f64	refs/heads/master
+203fac3d6c8f7cb6db3ab3cd2392ff9ccdc783e0	HEAD
+203fac3d6c8f7cb6db3ab3cd2392ff9ccdc783e0	refs/heads/master
 ```
 
 https://github.com/procedural/rev
