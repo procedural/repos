@@ -8,8 +8,8 @@ https://github.com/redgpu/framework
 
 https://github.com/redgpu/redgpu
 ```
-e790391adaccb1d192663b59f29b42b9e54cc16d	HEAD
-e790391adaccb1d192663b59f29b42b9e54cc16d	refs/heads/master
+f2efa3b596bd27284e026b73196e1dfbe1613c6b	HEAD
+f2efa3b596bd27284e026b73196e1dfbe1613c6b	refs/heads/master
 ```
 
 https://github.com/procedural/-
@@ -157,8 +157,8 @@ eb46501e355a1b3a6976e1db799c026282c1e1c0	refs/heads/master
 
 https://github.com/procedural/c_code_of_mine
 ```
-409716b741dd59e3f260b7b301c40acb0fc20ad3	HEAD
-409716b741dd59e3f260b7b301c40acb0fc20ad3	refs/heads/master
+77531101426e38883802bca35575d2378488fccf	HEAD
+77531101426e38883802bca35575d2378488fccf	refs/heads/master
 ```
 
 https://github.com/procedural/c_elementaryos_dev_env
@@ -509,6 +509,16 @@ c0bc428c7d30f37b7f9faf676e21b15a0552771d	refs/heads/master
 c0bc428c7d30f37b7f9faf676e21b15a0552771d	refs/tags/amdgpu
 ```
 
+https://github.com/procedural/img2ktx_binaries_ubuntu_16_04
+```
+2d4edca2e98bd8e7fe6c385d54948ef35d77b25d	HEAD
+a35c90593c08c28355f852e55e881dde5c2f5e6f	refs/heads/animated-gif
+acc4ead78207072444e3c1e7e142eea791930d6d	refs/heads/compressonator
+046755ab02982ed76b77bc4f34355abacd2050b4	refs/heads/ktx-orientation
+2d4edca2e98bd8e7fe6c385d54948ef35d77b25d	refs/heads/master
+24e9b5656646334b68bbe688b5a40d0080eedd81	refs/tags/preview-20170425
+```
+
 https://github.com/procedural/imgui
 ```
 78274fbaf7e8609fd4bed915efc2bc68371e0787	HEAD
@@ -581,6 +591,12 @@ a3f8802e3c5af1c31cf33219c05c5f92e9a2b13e	refs/tags/v3.1.0
 fea3243681c0eaf0406990c21dfaea02e86dd155	refs/tags/v3.2.1
 3be28236c828bdf67a9082a2e0283941ca9655cb	refs/tags/v3.2.2
 d405f018ac92478f43c0c25f16d8dcb539495421	refs/tags/v3.2.3
+```
+
+https://github.com/procedural/js_webgpu_hello_triangle
+```
+ec973587e5bca632f77075a84480b5e89962e9fc	HEAD
+ec973587e5bca632f77075a84480b5e89962e9fc	refs/heads/main
 ```
 
 https://github.com/procedural/kate_themes
@@ -829,6 +845,12 @@ b3ad060bc2353346a00ce69e3cf1c8fa5fb83307	refs/tags/1.62^{}
 15b0c7fb2d5adb262ff067c93feec1e998ad9048	refs/tags/OF_090_RC
 ```
 
+https://github.com/procedural/ofxPointInMesh
+```
+d413e9739585b5b6e5abd20a697be7d3f218435f	HEAD
+d413e9739585b5b6e5abd20a697be7d3f218435f	refs/heads/master
+```
+
 https://github.com/procedural/opencl_c
 ```
 e0e7ef5afb2f6cbc12e8b7f8bc8c3381a035a23e	HEAD
@@ -1017,8 +1039,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-203fac3d6c8f7cb6db3ab3cd2392ff9ccdc783e0	HEAD
-203fac3d6c8f7cb6db3ab3cd2392ff9ccdc783e0	refs/heads/master
+117ad41ddd374aded093da2fd788a5b82044e5c5	HEAD
+117ad41ddd374aded093da2fd788a5b82044e5c5	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -1089,6 +1111,12 @@ https://github.com/procedural/twitter_shadowban_the_last_3_days
 ```
 d835d23658dd2d452c4737ab9f0f4104dd308e6d	HEAD
 d835d23658dd2d452c4737ab9f0f4104dd308e6d	refs/heads/master
+```
+
+https://github.com/procedural/ubuntu_16_04_debs
+```
+18336b63f19938479b35c4dfb4c5f53992217ebe	HEAD
+18336b63f19938479b35c4dfb4c5f53992217ebe	refs/heads/main
 ```
 
 https://github.com/procedural/voxel-cone-tracing
@@ -1202,8 +1230,8 @@ a2e3205bdfec4406b4f0992ca4058649eefdae48	refs/heads/llandwerlin/vulkan-wsi-layer
 
 https://github.com/procedural/webgpu
 ```
-80429e5ef7e502e38e3c4e70774cddbde1681649	HEAD
-80429e5ef7e502e38e3c4e70774cddbde1681649	refs/heads/master
+f7b07c6348949481f728c39fcab91885ae62aeed	HEAD
+f7b07c6348949481f728c39fcab91885ae62aeed	refs/heads/master
 ```
 
 https://github.com/procedural/webgpu_rs_binaries_ubuntu
