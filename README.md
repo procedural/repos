@@ -1051,8 +1051,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-20423e94872cebc4bf611f25de32a97eb0edfa89	HEAD
-20423e94872cebc4bf611f25de32a97eb0edfa89	refs/heads/master
+2d5f11f4367b2a5ebb0b8297e2e013ad6ecea2bc	HEAD
+2d5f11f4367b2a5ebb0b8297e2e013ad6ecea2bc	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -1215,14 +1215,14 @@ b575d81cc462ab1b5587a086b0be6a98404c8528	refs/heads/master
 
 https://github.com/procedural/vulkan_ray_tracing
 ```
-5cf2ea919af1de9e37819be12bfea055f22655e5	HEAD
-5cf2ea919af1de9e37819be12bfea055f22655e5	refs/heads/main
+36cb83f88952ed1fbd890280476198d91bc235ce	HEAD
+36cb83f88952ed1fbd890280476198d91bc235ce	refs/heads/main
 ```
 
 https://github.com/procedural/vulkan_ray_tracing_nvpro_core
 ```
-199b2bcad800da89f3f238576a8781736c487cc6	HEAD
-199b2bcad800da89f3f238576a8781736c487cc6	refs/heads/master
+0be1a226cd206c8b0523302ee8b3b9806a09c6c2	HEAD
+0be1a226cd206c8b0523302ee8b3b9806a09c6c2	refs/heads/master
 ```
 
 https://github.com/procedural/vulkan_simple_compute
