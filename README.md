@@ -338,6 +338,12 @@ dc666f81d9608c9ed2f775c9a38b6230cd8c2fdc	HEAD
 dc666f81d9608c9ed2f775c9a38b6230cd8c2fdc	refs/heads/master
 ```
 
+https://github.com/procedural/FWK_04_Oct_2021
+```
+17d7fad75189e3a174ea02e34d4019a4aa7a18b5	HEAD
+17d7fad75189e3a174ea02e34d4019a4aa7a18b5	refs/heads/master
+```
+
 https://github.com/procedural/FWK_08_Apr_2021
 ```
 cd44f89a83d78e3f4394fe0cffa8c574b4c96ce6	HEAD
@@ -486,8 +492,8 @@ a818714c8c680d334c2d16bcd85f2fe5e19e5d4d	refs/heads/master
 
 https://github.com/procedural/hardware
 ```
-d45b77c45a6af99e079892dddbf057a347a4067a	HEAD
-d45b77c45a6af99e079892dddbf057a347a4067a	refs/heads/main
+868a73fab70bf0a19c434f3aad47cab0faa942e0	HEAD
+868a73fab70bf0a19c434f3aad47cab0faa942e0	refs/heads/main
 ```
 
 https://github.com/procedural/have_you_tried
@@ -863,6 +869,12 @@ d75b3af867cf1fe7177bb1396fda54cae7eb8f83	HEAD
 d75b3af867cf1fe7177bb1396fda54cae7eb8f83	refs/heads/master
 ```
 
+https://github.com/procedural/pl_mpeg
+```
+ecf3f192fd36e81cd8e5f1cc470bd957972b47a2	HEAD
+ecf3f192fd36e81cd8e5f1cc470bd957972b47a2	refs/heads/master
+```
+
 https://github.com/procedural/proctree
 ```
 21f2842dccd750c0bf2e0473c5dc8113811aed0e	HEAD
@@ -1039,8 +1051,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-a8ce2ba161df0c10221709586f35b0a402e4caab	HEAD
-a8ce2ba161df0c10221709586f35b0a402e4caab	refs/heads/master
+20423e94872cebc4bf611f25de32a97eb0edfa89	HEAD
+20423e94872cebc4bf611f25de32a97eb0edfa89	refs/heads/master
 ```
 
 https://github.com/procedural/rev
