@@ -985,8 +985,8 @@ f2a0268b41516dac44a362990bdf99d1ad342c26	refs/heads/wbvh
 
 https://github.com/procedural/redgpu_green_struct
 ```
-bd768be74558b785bc3814ed7193a2a875110543	HEAD
-bd768be74558b785bc3814ed7193a2a875110543	refs/heads/master
+b2e5aaeb5ee1e0e46a88c21bcde871b09d3daab9	HEAD
+b2e5aaeb5ee1e0e46a88c21bcde871b09d3daab9	refs/heads/master
 ```
 
 https://github.com/procedural/redgpu_helper
@@ -1009,14 +1009,14 @@ https://github.com/procedural/redgpu_inline_procedure
 
 https://github.com/procedural/redgpu_memory_allocator_dma
 ```
-6698bc52e7e396acf623ecbe58cb161cb31a9071	HEAD
-6698bc52e7e396acf623ecbe58cb161cb31a9071	refs/heads/master
+4eedd04b9983cde624e91dd1ec4294ac2de73697	HEAD
+4eedd04b9983cde624e91dd1ec4294ac2de73697	refs/heads/master
 ```
 
 https://github.com/procedural/redgpu_memory_allocator_vma
 ```
-e93d4aef2a621be9bc54848e2ebcded505f7fdbd	HEAD
-e93d4aef2a621be9bc54848e2ebcded505f7fdbd	refs/heads/master
+d7e12298f48dd608a885bdc7cc1991c96a2607fd	HEAD
+d7e12298f48dd608a885bdc7cc1991c96a2607fd	refs/heads/master
 ```
 
 https://github.com/procedural/redgpu_tips
@@ -1057,8 +1057,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-e71c39e500e78f5ad9e4d631a1f2ecbb802613a5	HEAD
-e71c39e500e78f5ad9e4d631a1f2ecbb802613a5	refs/heads/master
+d1e9d34084a6ae2664182b26f40b4014e417f967	HEAD
+d1e9d34084a6ae2664182b26f40b4014e417f967	refs/heads/master
 ```
 
 https://github.com/procedural/rev
