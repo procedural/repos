@@ -137,6 +137,12 @@ https://github.com/procedural/cpp_scoped_malloc
 791bb75d715447f3785564fbae331198c6379243	refs/heads/master
 ```
 
+https://github.com/procedural/cuda_c
+```
+52b9c0acd9d4300473cc82e96a8f21eb8b229c6f	HEAD
+52b9c0acd9d4300473cc82e96a8f21eb8b229c6f	refs/heads/main
+```
+
 https://github.com/procedural/c_char11
 ```
 c900366e18a0742c2cc000cf303b556207c4ffcb	HEAD
@@ -788,6 +794,13 @@ https://github.com/procedural/linux_static_library_catastrophe
 9675c4068709f8f189516a510334f0924a30f081	refs/heads/master
 ```
 
+https://github.com/procedural/llvm_13_binaries_ubuntu_16_04
+```
+e3867edbcc3fb64760b7c4ea77178dc245ff0695	HEAD
+e3867edbcc3fb64760b7c4ea77178dc245ff0695	refs/heads/release/13.x
+e3867edbcc3fb64760b7c4ea77178dc245ff0695	refs/tags/06_Oct_2021
+```
+
 https://github.com/procedural/magicacsg_copy_layers_program
 ```
 b77cf7e14bf2df9864dfd749f52e3860d582a79e	HEAD
@@ -823,6 +836,26 @@ https://github.com/procedural/notepadpp_theme_vs2019_dark
 a7d4c7ff44bfcbf9b9ca661145ccf1cf47fd63b4	HEAD
 a7d4c7ff44bfcbf9b9ca661145ccf1cf47fd63b4	refs/heads/master
 a7d4c7ff44bfcbf9b9ca661145ccf1cf47fd63b4	refs/tags/install
+```
+
+https://github.com/procedural/nvidia-texture-tools
+```
+aeddd65f81d36d8cb7b169b469ef25156666077e	HEAD
+c722267b9b0d691e1c0af5259db802fe3cc26d0c	refs/heads/2.0
+aeddd65f81d36d8cb7b169b469ef25156666077e	refs/heads/master
+925be836686f857ac3c7ac27a5ee891154ff7314	refs/heads/wiki
+a1b655d0d5701175f49478082b8b2353128b74f7	refs/tags/2.0.0
+fa4a7b9af70c4327f3f46e25b75efe746501fe7a	refs/tags/2.0.1
+1df4bb6980d098e4490ee0665c04bf61e9507ae7	refs/tags/2.0.2
+92f730457c6ddee8ca639c11940dceca28f1bffe	refs/tags/2.0.3
+624c5bd316a65d45896ac6da000e5661cce5900f	refs/tags/2.0.4
+81a40d8abc2a58cab383962d92e68d496d094f36	refs/tags/2.0.5
+de8f0153c0623d596644bad633150e83fb7d07ce	refs/tags/2.0.6
+f817d498729e4c004fcec2d9e4ce1c599415499b	refs/tags/2.0.7
+2587e2cf7978bb61d5bfd329657d7694cc09dab8	refs/tags/2.0.8
+fa6ebda53f1be0bb40513057d13b154771344528	refs/tags/2.1.0
+5f6424778ebcb949cbed32ae9fa1466b598bfd0a	refs/tags/2.1.1
+b1a90f36013522b9e5a3a2197859b72188752e3f	refs/tags/2.1.2
 ```
 
 https://github.com/procedural/o3de
@@ -1057,8 +1090,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-d1e9d34084a6ae2664182b26f40b4014e417f967	HEAD
-d1e9d34084a6ae2664182b26f40b4014e417f967	refs/heads/master
+6e0712099b7e90ef1b5067a811e2ce794e1cb02a	HEAD
+6e0712099b7e90ef1b5067a811e2ce794e1cb02a	refs/heads/master
 ```
 
 https://github.com/procedural/rev
