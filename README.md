@@ -8,8 +8,8 @@ https://github.com/redgpu/framework
 
 https://github.com/redgpu/redgpu
 ```
-b758a038d184ec8e8f16b00c1809ceb9dd7d7e11	HEAD
-b758a038d184ec8e8f16b00c1809ceb9dd7d7e11	refs/heads/master
+0ddcb4126eb0b4d204f312df80471d2e4033d9dc	HEAD
+0ddcb4126eb0b4d204f312df80471d2e4033d9dc	refs/heads/master
 ```
 
 https://github.com/procedural/-
@@ -498,8 +498,8 @@ a818714c8c680d334c2d16bcd85f2fe5e19e5d4d	refs/heads/master
 
 https://github.com/procedural/hardware
 ```
-868a73fab70bf0a19c434f3aad47cab0faa942e0	HEAD
-868a73fab70bf0a19c434f3aad47cab0faa942e0	refs/heads/main
+a8dbd09b8b692325191060d40681d57d03ce085e	HEAD
+a8dbd09b8b692325191060d40681d57d03ce085e	refs/heads/main
 ```
 
 https://github.com/procedural/have_you_tried
@@ -1054,8 +1054,8 @@ d7e12298f48dd608a885bdc7cc1991c96a2607fd	refs/heads/master
 
 https://github.com/procedural/redgpu_tips
 ```
-7857559aa7f36d5ff8d23b18e13ed463736c5637	HEAD
-7857559aa7f36d5ff8d23b18e13ed463736c5637	refs/heads/master
+a361b79fabb69bc876a4126bbb27fb3b26ae5a33	HEAD
+a361b79fabb69bc876a4126bbb27fb3b26ae5a33	refs/heads/master
 ```
 
 https://github.com/procedural/rei
@@ -1090,8 +1090,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-123c99fe6830dee949d8636854414521731b2d02	HEAD
-123c99fe6830dee949d8636854414521731b2d02	refs/heads/master
+9dc9b9b3aae09149c26485ee32c122e9a0241fb5	HEAD
+9dc9b9b3aae09149c26485ee32c122e9a0241fb5	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -1218,6 +1218,12 @@ e9bfb539d853607172f9a1a272dacab60a86e529	refs/tags/v2.3.0
 98e8cebec97df8168c5f4019ae504ea536387a81	refs/tags/v2.3.0+vs2017
 ```
 
+https://github.com/procedural/vulkan_compute
+```
+514f1506bc0f6dd937d93d84f9093eab3939dacf	HEAD
+514f1506bc0f6dd937d93d84f9093eab3939dacf	refs/heads/main
+```
+
 https://github.com/procedural/vulkan_extension_layer
 ```
 e15509e728641dd2f4679eee650d56e07f8e5708	HEAD
@@ -1262,12 +1268,6 @@ https://github.com/procedural/vulkan_ray_tracing_nvpro_core
 ```
 0be1a226cd206c8b0523302ee8b3b9806a09c6c2	HEAD
 0be1a226cd206c8b0523302ee8b3b9806a09c6c2	refs/heads/master
-```
-
-https://github.com/procedural/vulkan_simple_compute
-```
-514f1506bc0f6dd937d93d84f9093eab3939dacf	HEAD
-514f1506bc0f6dd937d93d84f9093eab3939dacf	refs/heads/main
 ```
 
 https://github.com/procedural/vulkan_tiny_init
