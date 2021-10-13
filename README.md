@@ -99,6 +99,37 @@ https://github.com/procedural/cauldron_example_binaries_windows_10
 21220e33fcf15bd7728866702ae11342b20c1d1a	refs/heads/main
 ```
 
+https://github.com/procedural/checkedc_binaries_ubuntu_16_04_from_12_Oct_2021
+```
+ad4e8b01121fbfb40d81ee798480add7dc93f0bf	HEAD
+ad4e8b01121fbfb40d81ee798480add7dc93f0bf	refs/heads/master
+ad4e8b01121fbfb40d81ee798480add7dc93f0bf	refs/tags/12_Oct_2021
+```
+
+https://github.com/procedural/checkedc_cc
+```
+c6a2ee54976ef44583413944525eb31425b59438	HEAD
+c6a2ee54976ef44583413944525eb31425b59438	refs/heads/main
+```
+
+https://github.com/procedural/checkedc_cc_hello_world
+```
+e2c8335a9ac304300c139485bd2fd73d71100015	HEAD
+e2c8335a9ac304300c139485bd2fd73d71100015	refs/heads/main
+```
+
+https://github.com/procedural/checkedc_cc_malloc_by_count
+```
+7534436832b69ecc56d8a764058e415c75bbd2eb	HEAD
+7534436832b69ecc56d8a764058e415c75bbd2eb	refs/heads/main
+```
+
+https://github.com/procedural/checkedc_links
+```
+5ffe8bb6e8fadfd9701cc6800776ceacf2f6605e	HEAD
+5ffe8bb6e8fadfd9701cc6800776ceacf2f6605e	refs/heads/main
+```
+
 https://github.com/procedural/clang
 ```
 ad0ebcda21aa5de1603c1796b8ef2a4591233974	HEAD
@@ -163,8 +194,8 @@ eb46501e355a1b3a6976e1db799c026282c1e1c0	refs/heads/master
 
 https://github.com/procedural/c_code_of_mine
 ```
-77531101426e38883802bca35575d2378488fccf	HEAD
-77531101426e38883802bca35575d2378488fccf	refs/heads/master
+1f24956aafbfc65108dda41f1315471c18e0cf14	HEAD
+1f24956aafbfc65108dda41f1315471c18e0cf14	refs/heads/master
 ```
 
 https://github.com/procedural/c_elementaryos_dev_env
@@ -468,6 +499,20 @@ b0eca5828ccd3a5c07b77e82e567c45937de9056	refs/tags/3.2.1-stable
 8e68f2e5f48c66bfa80b9bb7746a488afb70086d	refs/tags/3.3-stable
 4da4277dc9ff253ec9b23af1355d6f8bcefff5ca	refs/tags/3.3.1-stable
 7610409b8a14b8499763efa76578795c755a846d	refs/tags/3.3.2-stable
+```
+
+https://github.com/procedural/godot_demo
+```
+43085838ca1ff09dbf0925e73cf5764d6dd0b051	HEAD
+d392117d98deb1ff327df4410bc8409427ddaa17	refs/heads/3.1
+259605bd5d14f733ecd76bda31a4c22909138548	refs/heads/3.2
+8269b85a3e2d98abdcf91322383d83d9738e35d7	refs/heads/3.2.1
+4a5f84b5eb49d3628b0374a9198689ac0bacb50b	refs/heads/4.0-dev
+43085838ca1ff09dbf0925e73cf5764d6dd0b051	refs/heads/master
+99e4f80969ecce63d04d11fcb223d1e165999931	refs/tags/3.2-99e4f80
+d241fbbb7e629a9e1e0c56b71dcf5196cd12b2ca	refs/tags/3.2-d241fbb
+dce79b7c6a8308d2e291634bcaa57216b87c0fd4	refs/tags/3.2-dce79b7
+a53108a179d893e9c22d7595a74392d9d4788bb8	refs/tags/3.3-a53108a
 ```
 
 https://github.com/procedural/gpu_api_catastrophe_visualized
@@ -867,6 +912,27 @@ e7f787572e805c413115265e5873fb2425e2f41b	refs/heads/main
 e7f787572e805c413115265e5873fb2425e2f41b	refs/tags/2107.1
 ```
 
+https://github.com/procedural/ofxCv
+```
+209a3986a8f8e1928c7a11f6e1c5d8ea5406e639	HEAD
+b3964fbaafceb49b91496877d6168a23c69a0a05	refs/heads/VS2012-static
+ef24ec7e2f4c7eb7b78b94d6b1f4d6f6bbcfbe41	refs/heads/convolution
+a0c978519af86f85e40eff3a58832f0fa5806233	refs/heads/example/gesture
+3e89d628984d603dca41e7c79d0964c8bffd3f1d	refs/heads/feature/convexity-defects
+d9a8078b4ffe0388b89b0a9fcf8e4f8ef348dc62	refs/heads/loadLcp
+209a3986a8f8e1928c7a11f6e1c5d8ea5406e639	refs/heads/master
+f6181bc1e043ffd647410fc90166d6fe48dd97b4	refs/heads/stable
+88620c51198fc3992fdfb5c0404c37da5855e1e1	refs/tags/0.8.4
+```
+
+https://github.com/procedural/ofxFaceTracker2
+```
+4319ac7ab67decf412fe3e82da032d21503ee323	HEAD
+4319ac7ab67decf412fe3e82da032d21503ee323	refs/heads/master
+bfcbfd90eb84d6927cf8fe8202978fc6299125d0	refs/heads/svm
+4319ac7ab67decf412fe3e82da032d21503ee323	refs/tags/model
+```
+
 https://github.com/procedural/ofxImGui
 ```
 330e1425a88de7babd53ceb2fb93f8109b61724c	HEAD
@@ -1054,8 +1120,8 @@ d7e12298f48dd608a885bdc7cc1991c96a2607fd	refs/heads/master
 
 https://github.com/procedural/redgpu_tips
 ```
-a361b79fabb69bc876a4126bbb27fb3b26ae5a33	HEAD
-a361b79fabb69bc876a4126bbb27fb3b26ae5a33	refs/heads/master
+8ab6d0ac8eecc957c5ce6b027e001b3a60b6fa2d	HEAD
+8ab6d0ac8eecc957c5ce6b027e001b3a60b6fa2d	refs/heads/master
 ```
 
 https://github.com/procedural/rei
@@ -1090,8 +1156,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-9dc9b9b3aae09149c26485ee32c122e9a0241fb5	HEAD
-9dc9b9b3aae09149c26485ee32c122e9a0241fb5	refs/heads/master
+741c3eff326010f753cfc7f922ff33d3e96e276a	HEAD
+741c3eff326010f753cfc7f922ff33d3e96e276a	refs/heads/master
 ```
 
 https://github.com/procedural/rev
