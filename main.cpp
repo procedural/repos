@@ -1,4 +1,4 @@
-#include "../framework/redgpu_f.h"
+#include "/opt/github/redgpu/framework/redgpu_f.h"
 #include "jsmn.h"
 
 #include <stdlib.h> // For malloc, free
