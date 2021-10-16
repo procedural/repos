@@ -126,8 +126,8 @@ https://github.com/procedural/checkedc_cc_malloc_by_count
 
 https://github.com/procedural/checkedc_links
 ```
-5ffe8bb6e8fadfd9701cc6800776ceacf2f6605e	HEAD
-5ffe8bb6e8fadfd9701cc6800776ceacf2f6605e	refs/heads/main
+eb3a1e3258fb2b498857b2017398ee1d09c2c2db	HEAD
+eb3a1e3258fb2b498857b2017398ee1d09c2c2db	refs/heads/main
 ```
 
 https://github.com/procedural/clang
@@ -194,8 +194,8 @@ eb46501e355a1b3a6976e1db799c026282c1e1c0	refs/heads/master
 
 https://github.com/procedural/c_code_of_mine
 ```
-1f24956aafbfc65108dda41f1315471c18e0cf14	HEAD
-1f24956aafbfc65108dda41f1315471c18e0cf14	refs/heads/master
+5ad9073c2b114e7113a5688b1aff740f4b50627d	HEAD
+5ad9073c2b114e7113a5688b1aff740f4b50627d	refs/heads/master
 ```
 
 https://github.com/procedural/c_elementaryos_dev_env
@@ -275,6 +275,12 @@ https://github.com/procedural/c_structure_packing
 ```
 b55c98ef0951e437f2d66bbcfa7977547f67f2c5	HEAD
 b55c98ef0951e437f2d66bbcfa7977547f67f2c5	refs/heads/main
+```
+
+https://github.com/procedural/c_structWithPointer
+```
+83b8f66e5412158ce47c2aecf537514fcf556bc2	HEAD
+83b8f66e5412158ce47c2aecf537514fcf556bc2	refs/heads/main
 ```
 
 https://github.com/procedural/c_syscall
@@ -417,6 +423,14 @@ https://github.com/procedural/FWK_27_Aug_2021
 23d33a547c213c06dc9d771b4f7d157d5be31c4f	refs/heads/master
 ```
 
+https://github.com/procedural/game_maps_obj
+```
+380c7bd668d352f530baae55d797823b7a2c7d47	HEAD
+380c7bd668d352f530baae55d797823b7a2c7d47	refs/heads/master
+8cf5d902f9a34dfac7432f4a87b5cbda8a8cf608	refs/tags/download
+bc0d37ee62c94a4436b1ac246dcd3a8aaebd2b90	refs/tags/download^{}
+```
+
 https://github.com/procedural/gi
 ```
 bf971990d102c2f5eadede0170b213c5d91dada9	HEAD
@@ -501,7 +515,7 @@ b0eca5828ccd3a5c07b77e82e567c45937de9056	refs/tags/3.2.1-stable
 7610409b8a14b8499763efa76578795c755a846d	refs/tags/3.3.2-stable
 ```
 
-https://github.com/procedural/godot_demo
+https://github.com/procedural/godot_example
 ```
 43085838ca1ff09dbf0925e73cf5764d6dd0b051	HEAD
 d392117d98deb1ff327df4410bc8409427ddaa17	refs/heads/3.1
@@ -543,8 +557,8 @@ a818714c8c680d334c2d16bcd85f2fe5e19e5d4d	refs/heads/master
 
 https://github.com/procedural/hardware
 ```
-a8dbd09b8b692325191060d40681d57d03ce085e	HEAD
-a8dbd09b8b692325191060d40681d57d03ce085e	refs/heads/main
+4fa6da72a29921770537994b78d31cf20a6ea8f6	HEAD
+4fa6da72a29921770537994b78d31cf20a6ea8f6	refs/heads/main
 ```
 
 https://github.com/procedural/have_you_tried
@@ -883,7 +897,7 @@ a7d4c7ff44bfcbf9b9ca661145ccf1cf47fd63b4	refs/heads/master
 a7d4c7ff44bfcbf9b9ca661145ccf1cf47fd63b4	refs/tags/install
 ```
 
-https://github.com/procedural/nvidia-texture-tools
+https://github.com/procedural/nvidia_texture_tools
 ```
 aeddd65f81d36d8cb7b169b469ef25156666077e	HEAD
 c722267b9b0d691e1c0af5259db802fe3cc26d0c	refs/heads/2.0
@@ -1156,8 +1170,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-741c3eff326010f753cfc7f922ff33d3e96e276a	HEAD
-741c3eff326010f753cfc7f922ff33d3e96e276a	refs/heads/master
+4d1029c3f0a79854ca19ed0583392ca4bc80b438	HEAD
+4d1029c3f0a79854ca19ed0583392ca4bc80b438	refs/heads/master
 ```
 
 https://github.com/procedural/rev
