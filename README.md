@@ -843,8 +843,8 @@ https://github.com/procedural/linux_nvidia_driver_install
 
 https://github.com/procedural/linux_shared_library_catastrophe
 ```
-8373603b060463329af5a742e810338820c02a66	HEAD
-8373603b060463329af5a742e810338820c02a66	refs/heads/master
+af049ce12bc47539d8cb0b6d735a0815b4131491	HEAD
+af049ce12bc47539d8cb0b6d735a0815b4131491	refs/heads/master
 ```
 
 https://github.com/procedural/linux_static_library_catastrophe
@@ -995,6 +995,12 @@ https://github.com/procedural/proctree
 db47a366ee7d57ea397152b47d7e6f1bc5c978f0	refs/tags/linux-port
 ```
 
+https://github.com/procedural/profile
+```
+d732fdeede0dcfaca8f7cd4754e114081defcc1d	HEAD
+d732fdeede0dcfaca8f7cd4754e114081defcc1d	refs/heads/master
+```
+
 https://github.com/procedural/qtcreator_themes
 ```
 14f3043c839c6f6b94c89515af18216764e4f2fc	HEAD
@@ -1132,6 +1138,12 @@ d7e12298f48dd608a885bdc7cc1991c96a2607fd	HEAD
 d7e12298f48dd608a885bdc7cc1991c96a2607fd	refs/heads/master
 ```
 
+https://github.com/procedural/redgpu_profile
+```
+4c689e7e180d0a8c1dbfd244e35f517fd50d3d2d	HEAD
+4c689e7e180d0a8c1dbfd244e35f517fd50d3d2d	refs/heads/master
+```
+
 https://github.com/procedural/redgpu_tips
 ```
 8ab6d0ac8eecc957c5ce6b027e001b3a60b6fa2d	HEAD
@@ -1170,8 +1182,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-2766091912e0fc525713dd8b26e354d9456dcd05	HEAD
-2766091912e0fc525713dd8b26e354d9456dcd05	refs/heads/master
+ccbaf303d1ac94e7f6346dac6fdd8b2ad82ab728	HEAD
+ccbaf303d1ac94e7f6346dac6fdd8b2ad82ab728	refs/heads/master
 ```
 
 https://github.com/procedural/rev
