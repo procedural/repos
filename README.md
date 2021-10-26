@@ -2,8 +2,8 @@
 
 https://github.com/redgpu/framework
 ```
-9e04ca0ac3a569a6d1f533dcf5b5cc3ce954239e	HEAD
-9e04ca0ac3a569a6d1f533dcf5b5cc3ce954239e	refs/heads/master
+40ce6f433b31ce71ddbc16ff668090a12879c3f4	HEAD
+40ce6f433b31ce71ddbc16ff668090a12879c3f4	refs/heads/master
 ```
 
 https://github.com/redgpu/redgpu
@@ -16,6 +16,12 @@ https://github.com/procedural/-
 ```
 ac267c27bf98253b0ba88ee87a8d2c9b68be720e	HEAD
 ac267c27bf98253b0ba88ee87a8d2c9b68be720e	refs/heads/master
+```
+
+https://github.com/procedural/26_Oct_2021
+```
+9cffe6e8b587b3051ed52b5962473400ff890f1e	HEAD
+9cffe6e8b587b3051ed52b5962473400ff890f1e	refs/heads/main
 ```
 
 https://github.com/procedural/amdgpu_ihv_info
@@ -1182,8 +1188,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-5703892d870ef5fd5bef4c0740aa74ec0cf6879c	HEAD
-5703892d870ef5fd5bef4c0740aa74ec0cf6879c	refs/heads/master
+231c6ee6635bd2c61dc2658f10598ac095f6d223	HEAD
+231c6ee6635bd2c61dc2658f10598ac095f6d223	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -1203,6 +1209,12 @@ https://github.com/procedural/rms-support-letter.github.io
 9acad3da239d79bee4996ed9cd48ca6c4f12033d	HEAD
 9acad3da239d79bee4996ed9cd48ca6c4f12033d	refs/heads/master
 0d8bc01f3c4bffa61a70654507d5743c39325045	refs/heads/patch-1
+```
+
+https://github.com/procedural/script
+```
+d4a0c5cd2496d2e27feb4d8b6adfc9887cc36c36	HEAD
+d4a0c5cd2496d2e27feb4d8b6adfc9887cc36c36	refs/heads/master
 ```
 
 https://github.com/procedural/SEGI
