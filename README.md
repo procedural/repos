@@ -2,8 +2,8 @@
 
 https://github.com/redgpu/framework
 ```
-40ce6f433b31ce71ddbc16ff668090a12879c3f4	HEAD
-40ce6f433b31ce71ddbc16ff668090a12879c3f4	refs/heads/master
+14e9181d2373d392c0971dcd36eb7df36da57959	HEAD
+14e9181d2373d392c0971dcd36eb7df36da57959	refs/heads/master
 ```
 
 https://github.com/redgpu/redgpu
@@ -563,8 +563,8 @@ a818714c8c680d334c2d16bcd85f2fe5e19e5d4d	refs/heads/master
 
 https://github.com/procedural/hardware
 ```
-4fa6da72a29921770537994b78d31cf20a6ea8f6	HEAD
-4fa6da72a29921770537994b78d31cf20a6ea8f6	refs/heads/main
+58d6e3eb5371076ef55db885a701e5ce1efbf9d4	HEAD
+58d6e3eb5371076ef55db885a701e5ce1efbf9d4	refs/heads/main
 ```
 
 https://github.com/procedural/have_you_tried
@@ -1188,8 +1188,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-231c6ee6635bd2c61dc2658f10598ac095f6d223	HEAD
-231c6ee6635bd2c61dc2658f10598ac095f6d223	refs/heads/master
+27c2051fc513f446bd6fdf37317950f8621ac218	HEAD
+27c2051fc513f446bd6fdf37317950f8621ac218	refs/heads/master
 ```
 
 https://github.com/procedural/rev
