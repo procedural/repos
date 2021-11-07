@@ -87,6 +87,12 @@ https://github.com/procedural/blender_ubuntu_18_04
 e4a2dc46e26eeb2ad22a92e073d88904e0e6a21c	refs/tags/blender-v2.93-release-03d5c8b
 ```
 
+https://github.com/procedural/c
+```
+3167993aa6a459ba365078cc918b8440af1df7a3	HEAD
+3167993aa6a459ba365078cc918b8440af1df7a3	refs/heads/master
+```
+
 https://github.com/procedural/c--
 ```
 56671238953e6de88065777529b83d1e4322becd	HEAD
@@ -199,12 +205,6 @@ https://github.com/procedural/c_clang_complete
 ```
 eb46501e355a1b3a6976e1db799c026282c1e1c0	HEAD
 eb46501e355a1b3a6976e1db799c026282c1e1c0	refs/heads/master
-```
-
-https://github.com/procedural/c_code_of_mine
-```
-5ad9073c2b114e7113a5688b1aff740f4b50627d	HEAD
-5ad9073c2b114e7113a5688b1aff740f4b50627d	refs/heads/master
 ```
 
 https://github.com/procedural/c_elementaryos_dev_env
@@ -614,6 +614,12 @@ d8772263cdb55564e93528cf16248d3479d23346	refs/heads/master
 d05b06aaeb84f05aaf963bfb725a68c5cd500a44	refs/tags/de1010f
 ```
 
+https://github.com/procedural/intel
+```
+fa83cb6946f812fc4b3be4c60aaefd8520e42738	HEAD
+fa83cb6946f812fc4b3be4c60aaefd8520e42738	refs/heads/master
+```
+
 https://github.com/procedural/intel_xegtao_binaries_windows_10
 ```
 7fda72bcf6d525dc54ece8777f6c213c3d630c32	HEAD
@@ -991,6 +997,12 @@ d75b3af867cf1fe7177bb1396fda54cae7eb8f83	HEAD
 d75b3af867cf1fe7177bb1396fda54cae7eb8f83	refs/heads/master
 ```
 
+https://github.com/procedural/plasma
+```
+65181d73849a3fc22d42391e90816c43352edcc4	HEAD
+65181d73849a3fc22d42391e90816c43352edcc4	refs/heads/master
+```
+
 https://github.com/procedural/pl_mpeg
 ```
 ecf3f192fd36e81cd8e5f1cc470bd957972b47a2	HEAD
@@ -1191,8 +1203,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-62e2c3875cca43d48ae143e322b70b4d8cd96d8d	HEAD
-62e2c3875cca43d48ae143e322b70b4d8cd96d8d	refs/heads/master
+06f67e0be586c7e7fb4fecd640c55f349911d0aa	HEAD
+06f67e0be586c7e7fb4fecd640c55f349911d0aa	refs/heads/master
 ```
 
 https://github.com/procedural/rev
