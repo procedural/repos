@@ -434,8 +434,8 @@ https://github.com/procedural/FWK_27_Aug_2021
 
 https://github.com/procedural/gamescript
 ```
-033803f64fd03518dad6b790ff2ebc3e22d2906b	HEAD
-033803f64fd03518dad6b790ff2ebc3e22d2906b	refs/heads/main
+b8b150f42247f28086c79ccf56bdc8ca0cf03064	HEAD
+b8b150f42247f28086c79ccf56bdc8ca0cf03064	refs/heads/main
 ```
 
 https://github.com/procedural/game_maps_obj
@@ -1215,8 +1215,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-74e016fe893e78726d08ba323a71adcd0d6db8ae	HEAD
-74e016fe893e78726d08ba323a71adcd0d6db8ae	refs/heads/master
+1c650d2523b9e3500cbbcc73735824f761619611	HEAD
+1c650d2523b9e3500cbbcc73735824f761619611	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -1269,6 +1269,12 @@ https://github.com/procedural/steamos
 ```
 d3fb5a6c911505e83eb80b71ec9ce764a3087219	HEAD
 d3fb5a6c911505e83eb80b71ec9ce764a3087219	refs/heads/master
+```
+
+https://github.com/procedural/suzanne
+```
+57980b616124dc90055443ee20bbb2c393aba81f	HEAD
+57980b616124dc90055443ee20bbb2c393aba81f	refs/heads/main
 ```
 
 https://github.com/procedural/tape
