@@ -2,8 +2,8 @@
 
 https://github.com/redgpu/framework
 ```
-e1ba8a81f70fbded836a8cffeb0907a3c9f067c5	HEAD
-e1ba8a81f70fbded836a8cffeb0907a3c9f067c5	refs/heads/master
+bc6968a3871dcb93859bb1c793c1a71ce65fc4c6	HEAD
+bc6968a3871dcb93859bb1c793c1a71ce65fc4c6	refs/heads/master
 ```
 
 https://github.com/redgpu/redgpu
@@ -127,8 +127,8 @@ e4a2dc46e26eeb2ad22a92e073d88904e0e6a21c	refs/tags/blender-v2.93-release-03d5c8b
 
 https://github.com/procedural/c
 ```
-3167993aa6a459ba365078cc918b8440af1df7a3	HEAD
-3167993aa6a459ba365078cc918b8440af1df7a3	refs/heads/master
+4875eb4e700a2499a15fb3f83c9da2c4ebf67eb4	HEAD
+4875eb4e700a2499a15fb3f83c9da2c4ebf67eb4	refs/heads/master
 ```
 
 https://github.com/procedural/c--
@@ -470,8 +470,8 @@ https://github.com/procedural/FWK_27_Aug_2021
 
 https://github.com/procedural/gamescript
 ```
-86d410df11dbbebd2f5318832e7a6da13650196a	HEAD
-86d410df11dbbebd2f5318832e7a6da13650196a	refs/heads/main
+ee803d1356454f74eced708a938889806a322187	HEAD
+ee803d1356454f74eced708a938889806a322187	refs/heads/main
 ```
 
 https://github.com/procedural/gi
@@ -1226,8 +1226,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-e37945901c632a56d09aae874e7f2efd00d06d91	HEAD
-e37945901c632a56d09aae874e7f2efd00d06d91	refs/heads/master
+73e2808a3fecc60aadca029937cd56d86f4c739f	HEAD
+73e2808a3fecc60aadca029937cd56d86f4c739f	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -1984,10 +1984,16 @@ a286a979101dcb29e0783b86c3674569c2fcd7ee	refs/heads/master
 a286a979101dcb29e0783b86c3674569c2fcd7ee	refs/tags/archive
 ```
 
-https://github.com/procedural/xatlas_binaries_ubuntu_16_04
+https://github.com/procedural/xatlas_binaries_ubuntu_16_04_from_23_Jan_2021
 ```
 eb14640a60c032c3ad0a4786cd11f5c0734c8f70	HEAD
 eb14640a60c032c3ad0a4786cd11f5c0734c8f70	refs/heads/master
+```
+
+https://github.com/procedural/xatlas_binaries_ubuntu_16_04_from_24_Nov_2021
+```
+78c980545c9712c0955a1113c79375b114aefb7a	HEAD
+78c980545c9712c0955a1113c79375b114aefb7a	refs/heads/master
 ```
 
 https://github.com/procedural/zoom
