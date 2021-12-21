@@ -2,8 +2,8 @@
 
 https://github.com/redgpu/framework
 ```
-bc6968a3871dcb93859bb1c793c1a71ce65fc4c6	HEAD
-bc6968a3871dcb93859bb1c793c1a71ce65fc4c6	refs/heads/master
+09e2450ae4fb5a8f97d2c8671acd2c0391d34213	HEAD
+09e2450ae4fb5a8f97d2c8671acd2c0391d34213	refs/heads/master
 ```
 
 https://github.com/redgpu/redgpu
@@ -383,6 +383,21 @@ https://github.com/procedural/device_telemetry_api_in_a_nutshell
 8e243e26b64c654cb6f6f3fc0175bd8b5fd25d44	refs/heads/main
 ```
 
+https://github.com/procedural/directx_headers
+```
+e2e2b456e8b77714455bf4074fa3a249b91b36ab	HEAD
+3df2ef5967e08294051cd8e50b8cb2059ba1ffe4	refs/heads/billkris-ms/featuresupport_const
+f09fda2587b5204e04f5b15fb7fe0c5839567442	refs/heads/billkris/dead-code
+3b6e87f6a3fdea4fa58010dfeb3d1a3b26d57d82	refs/heads/inline-fix
+e2e2b456e8b77714455bf4074fa3a249b91b36ab	refs/heads/main
+5d643c95e8c6c74b4e648568a4ca9fada88b082c	refs/heads/stwhi-main/typos
+1dc7f152552bf624b9c84e56c0c5ed5cdf456c16	refs/tags/v1.0
+c32cfd814f939eddd58b4d81e060ef90525332fe	refs/tags/v1.0.1
+73ed72b2afa617e605521eb740f77b4f7775c0df	refs/tags/v1.0.2
+da7aedbc4a81e9c3bbc80bcface65c91e62fd205	refs/tags/v1.4.9
+f6c6c66b55fa53d5b609d41d4d3f4539cc86affd	refs/tags/v1.700.10-preview
+```
+
 https://github.com/procedural/dualquaternion
 ```
 adc4bf8933adf76261d6eaea5054835f9a517474	HEAD
@@ -444,6 +459,12 @@ https://github.com/procedural/FWK_08_Sep_2021
 47055a44ff3d13e6e692c05099f03239de8c29f0	refs/heads/master
 ```
 
+https://github.com/procedural/FWK_21_Dec_2021
+```
+368c62d2f84bb71dd40fd217ab86d5b8c4eaaf9d	HEAD
+368c62d2f84bb71dd40fd217ab86d5b8c4eaaf9d	refs/heads/master
+```
+
 https://github.com/procedural/FWK_23_Mar_2021
 ```
 bd2772bf3acd8758eb75ee9380eaa38f14929bc3	HEAD
@@ -470,14 +491,14 @@ https://github.com/procedural/FWK_27_Aug_2021
 
 https://github.com/procedural/gamescript
 ```
-ee803d1356454f74eced708a938889806a322187	HEAD
-ee803d1356454f74eced708a938889806a322187	refs/heads/main
+086c3a165bfc5637fd5f37c81da4396b5dfc6a93	HEAD
+086c3a165bfc5637fd5f37c81da4396b5dfc6a93	refs/heads/main
 ```
 
 https://github.com/procedural/gi
 ```
-bf971990d102c2f5eadede0170b213c5d91dada9	HEAD
-bf971990d102c2f5eadede0170b213c5d91dada9	refs/heads/master
+ba371519fa31ee357b3b49efcb40c786a4dfc0ee	HEAD
+ba371519fa31ee357b3b49efcb40c786a4dfc0ee	refs/heads/master
 3fc874cecc5c09f240b4db3a4415a5e704fcdac6	refs/tags/pptx
 ```
 
@@ -935,10 +956,18 @@ d8a516cac30e28fca4a188ca8368b00a90ed9029	HEAD
 d8a516cac30e28fca4a188ca8368b00a90ed9029	refs/heads/main
 ```
 
+https://github.com/procedural/meshes
+```
+380c7bd668d352f530baae55d797823b7a2c7d47	HEAD
+380c7bd668d352f530baae55d797823b7a2c7d47	refs/heads/master
+8cf5d902f9a34dfac7432f4a87b5cbda8a8cf608	refs/tags/download
+bc0d37ee62c94a4436b1ac246dcd3a8aaebd2b90	refs/tags/download^{}
+```
+
 https://github.com/procedural/metal-cpp
 ```
-caeabeb76507114cf3b3d0371e6e47c222edf2d2	HEAD
-caeabeb76507114cf3b3d0371e6e47c222edf2d2	refs/heads/master
+e3f90f6f048feb9cfd5ce2aa9d53e362c9bda7c9	HEAD
+e3f90f6f048feb9cfd5ce2aa9d53e362c9bda7c9	refs/heads/master
 ```
 
 https://github.com/procedural/notepadpp_theme_vs2019_dark
@@ -991,14 +1020,6 @@ https://github.com/procedural/objective_c
 ```
 f00d6629854f422cccb5520db21dfc59fbe1f03c	HEAD
 f00d6629854f422cccb5520db21dfc59fbe1f03c	refs/heads/master
-```
-
-https://github.com/procedural/obj_meshes
-```
-380c7bd668d352f530baae55d797823b7a2c7d47	HEAD
-380c7bd668d352f530baae55d797823b7a2c7d47	refs/heads/master
-8cf5d902f9a34dfac7432f4a87b5cbda8a8cf608	refs/tags/download
-bc0d37ee62c94a4436b1ac246dcd3a8aaebd2b90	refs/tags/download^{}
 ```
 
 https://github.com/procedural/ofxCv
@@ -1226,8 +1247,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-73e2808a3fecc60aadca029937cd56d86f4c739f	HEAD
-73e2808a3fecc60aadca029937cd56d86f4c739f	refs/heads/master
+68d40dc939ad9a2284c698e36bf80c1ab85f7c54	HEAD
+68d40dc939ad9a2284c698e36bf80c1ab85f7c54	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -1313,6 +1334,12 @@ e4ec5d1db57c75fe4914c249e50376598fcc0c1b	refs/tags/release-1.0.0-beta3^{}
 84bbb0be237295678648b1508e8b366284420936	refs/tags/release-2015-08-03
 2fa8d0aa1b1a83a4677d8383d75ba54f999f912a	refs/tags/release-2016-02-26
 332a506f25a4d576c40adac4b5d21fd92c37d0cc	refs/tags/release-2016-03-25
+```
+
+https://github.com/procedural/textures
+```
+a545db58fa1b1c13ee5a2c4fa34ff948a01e2277	HEAD
+a545db58fa1b1c13ee5a2c4fa34ff948a01e2277	refs/heads/master
 ```
 
 https://github.com/procedural/the_hidden_design_of_a_code_editor
@@ -1973,8 +2000,8 @@ a3cc91a8b91e2aab2d25c586146a9696bfb1ffdd	refs/heads/master
 
 https://github.com/procedural/windows_and_visual_studio_info
 ```
-207e68cf1c6b8337f647d4198d9df508afd71c90	HEAD
-207e68cf1c6b8337f647d4198d9df508afd71c90	refs/heads/main
+016776de1551ebfc65310334604559ec1126e282	HEAD
+016776de1551ebfc65310334604559ec1126e282	refs/heads/main
 ```
 
 https://github.com/procedural/windows_sdk_headers
