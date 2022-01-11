@@ -977,6 +977,18 @@ https://github.com/procedural/meshes
 bc0d37ee62c94a4436b1ac246dcd3a8aaebd2b90	refs/tags/download^{}
 ```
 
+https://github.com/procedural/metadesk
+```
+7b2b00d8dae43e5f2b202989af88dc468dbc0eb9	HEAD
+dbd76edfc08f74f624aeb96589f4f9acb5671caf	refs/heads/allen_arena_attempt
+2ceb1a1d7a7e01f57b7b09bf78c81c204bf9b4a0	refs/heads/dev
+7b2b00d8dae43e5f2b202989af88dc468dbc0eb9	refs/heads/master
+72b735fa7233be51bb2ed4514affcc56d7a5f351	refs/tags/v0.1-beta
+0eee7e5a6cc23fc786ac3dd14809807f397334ff	refs/tags/v0.1-beta^{}
+52d717c2b98b57fa128700a58c2e9b4cc8c06a1a	refs/tags/v0.2-beta
+b07e706dfbe5e3c6331ed5c0957efcdce6369c57	refs/tags/v1.0
+```
+
 https://github.com/procedural/metal-cpp
 ```
 e3f90f6f048feb9cfd5ce2aa9d53e362c9bda7c9	HEAD
@@ -1274,8 +1286,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-f649e2d957b74a6b769dbc25f8002863d467a631	HEAD
-f649e2d957b74a6b769dbc25f8002863d467a631	refs/heads/master
+db4f0ebf0304d25f4a8039baaa3c6fc0714fc293	HEAD
+db4f0ebf0304d25f4a8039baaa3c6fc0714fc293	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -1339,8 +1351,8 @@ https://github.com/procedural/suzanne
 
 https://github.com/procedural/tape
 ```
-dd2b27e99fc9f299abfea9fb479fb514d05f9e45	HEAD
-dd2b27e99fc9f299abfea9fb479fb514d05f9e45	refs/heads/master
+0e9d59431b1bd383f3c3a78db39f4c1e2cb17faa	HEAD
+0e9d59431b1bd383f3c3a78db39f4c1e2cb17faa	refs/heads/master
 ```
 
 https://github.com/procedural/terra
