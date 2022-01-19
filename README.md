@@ -492,14 +492,14 @@ https://github.com/procedural/FWK_27_Aug_2021
 
 https://github.com/procedural/gamescript
 ```
-e36f30e280d37f5eb2ab3e823b223ab53f45c0a0	HEAD
-e36f30e280d37f5eb2ab3e823b223ab53f45c0a0	refs/heads/main
+265861ea964bb38f9fce36f9237650b1c494d369	HEAD
+265861ea964bb38f9fce36f9237650b1c494d369	refs/heads/main
 ```
 
 https://github.com/procedural/gamescript_native_swift
 ```
-524a77eb2e5940213612e0c455f592850e3e1c26	HEAD
-524a77eb2e5940213612e0c455f592850e3e1c26	refs/heads/master
+c0f578a833da349570df9154d19e76cd3e7fb569	HEAD
+c0f578a833da349570df9154d19e76cd3e7fb569	refs/heads/master
 ```
 
 https://github.com/procedural/gamescript_raytracing
@@ -965,8 +965,8 @@ b0289a0b69a17e294b27b68aef5d7f33587244b1	refs/heads/master
 
 https://github.com/procedural/memes
 ```
-d8a516cac30e28fca4a188ca8368b00a90ed9029	HEAD
-d8a516cac30e28fca4a188ca8368b00a90ed9029	refs/heads/main
+6df5120d9f9f10a796c29a046049724047517b3f	HEAD
+6df5120d9f9f10a796c29a046049724047517b3f	refs/heads/main
 ```
 
 https://github.com/procedural/meshes
@@ -1010,6 +1010,12 @@ d0fbc16e2964cdd0555d1606ccb05657917debda	refs/heads/master
 e8f406c5210690c7002c425fb5b73467418ee93a	refs/tags/v1.1
 c7da7602f0c14db6e8ffba74bdabfeb5b8a276d7	refs/tags/v1.2
 2f54fa3fd7084b63a6490b234b8c76399e05f3fb	refs/tags/v1.3
+```
+
+https://github.com/procedural/nvidia_instant_ngp
+```
+061a054858c63d6c712361052f648597ea0a284d	HEAD
+061a054858c63d6c712361052f648597ea0a284d	refs/heads/master
 ```
 
 https://github.com/procedural/nvidia_texture_tools
@@ -1286,8 +1292,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-db4f0ebf0304d25f4a8039baaa3c6fc0714fc293	HEAD
-db4f0ebf0304d25f4a8039baaa3c6fc0714fc293	refs/heads/master
+5dd5af6f3104962cacffbd59b517978d2c8bf166	HEAD
+5dd5af6f3104962cacffbd59b517978d2c8bf166	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -1383,8 +1389,8 @@ a545db58fa1b1c13ee5a2c4fa34ff948a01e2277	refs/heads/master
 
 https://github.com/procedural/the_hidden_design_of_a_code_editor
 ```
-a5b902b3feac69e7686e5b7b46b6e62c9c0fe5ac	HEAD
-a5b902b3feac69e7686e5b7b46b6e62c9c0fe5ac	refs/heads/main
+56ca6bff9230acb33b30f2e950d33dd2edbc093e	HEAD
+56ca6bff9230acb33b30f2e950d33dd2edbc093e	refs/heads/main
 ```
 
 https://github.com/procedural/twitter
