@@ -405,6 +405,12 @@ adc4bf8933adf76261d6eaea5054835f9a517474	HEAD
 adc4bf8933adf76261d6eaea5054835f9a517474	refs/heads/master
 ```
 
+https://github.com/procedural/ebsynth
+```
+2f5c97c0c21a86bb7334dee61453623e6a3d41c3	HEAD
+2f5c97c0c21a86bb7334dee61453623e6a3d41c3	refs/heads/master
+```
+
 https://github.com/procedural/empty.o
 ```
 6a3f98c4a5302095fdf5c24358fc3f2da56d5daa	HEAD
@@ -492,14 +498,14 @@ https://github.com/procedural/FWK_27_Aug_2021
 
 https://github.com/procedural/gamescript
 ```
-265861ea964bb38f9fce36f9237650b1c494d369	HEAD
-265861ea964bb38f9fce36f9237650b1c494d369	refs/heads/main
+ef43844f0f87fb5d3b45fe3f3dff437ccc4f19d5	HEAD
+ef43844f0f87fb5d3b45fe3f3dff437ccc4f19d5	refs/heads/main
 ```
 
 https://github.com/procedural/gamescript_native_swift
 ```
-c0f578a833da349570df9154d19e76cd3e7fb569	HEAD
-c0f578a833da349570df9154d19e76cd3e7fb569	refs/heads/master
+f37450d687eb3f47daec1a1cd5b48301c5210e29	HEAD
+f37450d687eb3f47daec1a1cd5b48301c5210e29	refs/heads/master
 ```
 
 https://github.com/procedural/gamescript_raytracing
@@ -1103,6 +1109,13 @@ e0e7ef5afb2f6cbc12e8b7f8bc8c3381a035a23e	HEAD
 e0e7ef5afb2f6cbc12e8b7f8bc8c3381a035a23e	refs/heads/main
 ```
 
+https://github.com/procedural/pigment-mixing
+```
+faad65307b43a0cfb2bfbc3e61de36daf124f0dd	HEAD
+faad65307b43a0cfb2bfbc3e61de36daf124f0dd	refs/heads/master
+5775c6fa68dbd6db0a724b420ded89fd03a2b5e2	refs/tags/v1.2
+```
+
 https://github.com/procedural/plasma
 ```
 65181d73849a3fc22d42391e90816c43352edcc4	HEAD
@@ -1292,8 +1305,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-5dd5af6f3104962cacffbd59b517978d2c8bf166	HEAD
-5dd5af6f3104962cacffbd59b517978d2c8bf166	refs/heads/master
+c6c6bc5a79a491bc82b2c1d53da84023d94640c0	HEAD
+c6c6bc5a79a491bc82b2c1d53da84023d94640c0	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -1347,6 +1360,12 @@ https://github.com/procedural/steamos
 ```
 d3fb5a6c911505e83eb80b71ec9ce764a3087219	HEAD
 d3fb5a6c911505e83eb80b71ec9ce764a3087219	refs/heads/master
+```
+
+https://github.com/procedural/styleblit
+```
+df09e0c969c221580a40509f1bb759dd9548f178	HEAD
+df09e0c969c221580a40509f1bb759dd9548f178	refs/heads/master
 ```
 
 https://github.com/procedural/suzanne
