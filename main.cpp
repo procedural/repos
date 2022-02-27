@@ -1,4 +1,8 @@
+#if defined(_WIN32)
+#include "C:/github/redgpu/framework/redgpu_f.h"
+#else
 #include "/opt/github/redgpu/framework/redgpu_f.h"
+#endif
 #include "jsmn.h"
 
 #include <stdlib.h> // For malloc, free
@@ -20,7 +24,12 @@ std::vector<std::string> getGithubReposUrls(std::string githubProfileName, unsig
   unsigned index = 1;
   while (1) {
     std::stringstream ss;
-    ss << "wget -qO- https://api.github.com/users/";
+#if defined(_WIN32)
+    ss << "wget.exe";
+#else
+    ss << "wget";
+#endif
+    ss << " -qO- https://api.github.com/users/";
     ss << githubProfileName;
     ss << "/repos?page=";
     ss << index;

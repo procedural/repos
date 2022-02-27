@@ -1,2 +1,5 @@
 build/*
 *.txt.user
+*.obj
+*.dll
+.wget-hsts
