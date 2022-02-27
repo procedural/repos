@@ -2,8 +2,8 @@
 
 https://github.com/redgpu/framework
 ```
-5f6de623a7c35d8f8caaefe47f642d709d419d8a	HEAD
-5f6de623a7c35d8f8caaefe47f642d709d419d8a	refs/heads/master
+771df9c3ac78985a0a09049f33c0ce4a2d883502	HEAD
+771df9c3ac78985a0a09049f33c0ce4a2d883502	refs/heads/master
 ```
 
 https://github.com/redgpu/redgpu
@@ -94,6 +94,23 @@ https://github.com/procedural/assimp_binaries_ubuntu_16_04_and_windows_10
 ```
 2f2fbef3545a0127a20dbd2ee7f8879de7cf39e7	HEAD
 2f2fbef3545a0127a20dbd2ee7f8879de7cf39e7	refs/heads/master
+```
+
+https://github.com/procedural/backward_cpp
+```
+5ffb2c879ebdbea3bdb8477c671e32b1c984beaa	HEAD
+9fb93a08aa7e8015d7d1ef4d2d26e3073a00dd4b	refs/heads/clang-format
+b0568e3042ccb8eb4fccb2ec800f83ceb925a412	refs/heads/exception
+d16b08f887c255833dad605571b89d6aa3f9f53d	refs/heads/issue-55
+5ffb2c879ebdbea3bdb8477c671e32b1c984beaa	refs/heads/master
+a0762aa1cdc4e973791685fa34baf8e22443449a	refs/tags/v1.0
+8fe8aee5b06a3d6e4919293baa01c74afae14cce	refs/tags/v1.0^{}
+54fc561ebcd151e860ac2f8ec9c190756aafe133	refs/tags/v1.1
+d820636e5af8f4114ce7839f740ff061f719d4db	refs/tags/v1.2
+cd1c4bd9e48afe812a0e996d335298c455afcd92	refs/tags/v1.3
+84ae4f5e80381aca765a0810d4c811acae3cd7c7	refs/tags/v1.4
+83da75636cef3ee6e0c83cf8651e2929e1b87261	refs/tags/v1.5
+3bb9240cb15459768adb3e7d963a20e1523a6294	refs/tags/v1.6
 ```
 
 https://github.com/procedural/blender
@@ -232,7 +249,7 @@ https://github.com/procedural/c_char35
 1b33cb1df9f584664dcff52e56e00f1c805992db	refs/heads/master
 ```
 
-https://github.com/procedural/c_clang_complete
+https://github.com/procedural/c_clang_autocomplete
 ```
 eb46501e355a1b3a6976e1db799c026282c1e1c0	HEAD
 eb46501e355a1b3a6976e1db799c026282c1e1c0	refs/heads/master
@@ -364,6 +381,14 @@ https://github.com/procedural/d3d11_on_12
 ```
 ffede331ce53247fc66ffdfcff625c632c1dd23b	HEAD
 ffede331ce53247fc66ffdfcff625c632c1dd23b	refs/heads/master
+```
+
+https://github.com/procedural/D3D12MemoryAllocator
+```
+7ab674b85a4daf1ec764f6255f550004729a0491	HEAD
+7ab674b85a4daf1ec764f6255f550004729a0491	refs/heads/master
+2764c221dcfc4db90f51702644cc8988eb8f78de	refs/tags/v1.0.0
+71b33677a7c5fd3f2278198e93b900c25ef544ba	refs/tags/v1.0.0+vs2017
 ```
 
 https://github.com/procedural/d3d12_translation_layer
@@ -498,20 +523,45 @@ https://github.com/procedural/FWK_27_Aug_2021
 
 https://github.com/procedural/gamescript
 ```
-ef43844f0f87fb5d3b45fe3f3dff437ccc4f19d5	HEAD
-ef43844f0f87fb5d3b45fe3f3dff437ccc4f19d5	refs/heads/main
+fe9bbc43ac8a71d12a05912ad9edaa4e51124ab0	HEAD
+fe9bbc43ac8a71d12a05912ad9edaa4e51124ab0	refs/heads/main
+```
+
+https://github.com/procedural/gamescript_c
+```
+df90bbdd7fe89180f47b70d4b9a89b56bcf32fca	HEAD
+df90bbdd7fe89180f47b70d4b9a89b56bcf32fca	refs/heads/main
+```
+
+https://github.com/procedural/gamescript_fbx_examples
+```
+069dbd796ffd1a4be26f383ec2ce144756ac6005	HEAD
+069dbd796ffd1a4be26f383ec2ce144756ac6005	refs/heads/main
+```
+
+https://github.com/procedural/gamescript_min
+```
+486929f655f38903279a99930963b258c69787af	HEAD
+486929f655f38903279a99930963b258c69787af	refs/heads/main
+```
+
+https://github.com/procedural/gamescript_native_clang_for_windows
+```
+3bcd93e71ae676a18d2a4fc23136fc585d09fa5c	HEAD
+3bcd93e71ae676a18d2a4fc23136fc585d09fa5c	refs/heads/main
+d83d5dd4c9e9349e4c2f76f3a9559e6492edc1df	refs/tags/v1.0
 ```
 
 https://github.com/procedural/gamescript_native_swift
 ```
-f37450d687eb3f47daec1a1cd5b48301c5210e29	HEAD
-f37450d687eb3f47daec1a1cd5b48301c5210e29	refs/heads/master
+81a4d40e6c9bc1bfd4f793efe7d55b95b99a0abe	HEAD
+81a4d40e6c9bc1bfd4f793efe7d55b95b99a0abe	refs/heads/master
 ```
 
 https://github.com/procedural/gamescript_raytracing
 ```
-caa06b9febf8678151d2cc6af95333e73622a5c7	HEAD
-caa06b9febf8678151d2cc6af95333e73622a5c7	refs/heads/master
+e7642b02b9b66bc44bf908467722ed6b979e720f	HEAD
+e7642b02b9b66bc44bf908467722ed6b979e720f	refs/heads/master
 ```
 
 https://github.com/procedural/gi
@@ -610,8 +660,8 @@ https://github.com/procedural/gpu_api_catastrophe_visualized
 
 https://github.com/procedural/gpu_ihv_promises
 ```
-58cef8d97ae6a644a2b6043df3578280d5be8f16	HEAD
-58cef8d97ae6a644a2b6043df3578280d5be8f16	refs/heads/master
+840670b670adb1d7d12f60813dbcc323312be53c	HEAD
+840670b670adb1d7d12f60813dbcc323312be53c	refs/heads/master
 455c7f43a3efa4a4fe69bc4af2901e144a22c9d2	refs/tags/9_Jan_2019
 ```
 
@@ -1001,6 +1051,12 @@ e3f90f6f048feb9cfd5ce2aa9d53e362c9bda7c9	HEAD
 e3f90f6f048feb9cfd5ce2aa9d53e362c9bda7c9	refs/heads/master
 ```
 
+https://github.com/procedural/minscript
+```
+360acd29781af324f3a611019dd4d30ec123a74e	HEAD
+360acd29781af324f3a611019dd4d30ec123a74e	refs/heads/master
+```
+
 https://github.com/procedural/notepadpp_theme_vs2019_dark
 ```
 a7d4c7ff44bfcbf9b9ca661145ccf1cf47fd63b4	HEAD
@@ -1305,8 +1361,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-c6c6bc5a79a491bc82b2c1d53da84023d94640c0	HEAD
-c6c6bc5a79a491bc82b2c1d53da84023d94640c0	refs/heads/master
+c082502b5afcef2f0e02bf3fdb79e664a8d54b6b	HEAD
+c082502b5afcef2f0e02bf3fdb79e664a8d54b6b	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -1328,6 +1384,28 @@ https://github.com/procedural/rms-support-letter.github.io
 0d8bc01f3c4bffa61a70654507d5743c39325045	refs/heads/patch-1
 ```
 
+https://github.com/procedural/rtx_caldera
+```
+e7e1cf7d7600e6055aceb8dfc09228c4c455c408	HEAD
+e7e1cf7d7600e6055aceb8dfc09228c4c455c408	refs/heads/main
+```
+
+https://github.com/procedural/rtx_etx_tracer
+```
+39906d69f7d214930209ad7307c94376328a1c8b	HEAD
+01ccd26d688938f9e6d941391f48283ab30d6bc0	refs/heads/dev
+39906d69f7d214930209ad7307c94376328a1c8b	refs/heads/main
+39906d69f7d214930209ad7307c94376328a1c8b	refs/tags/develer-preview-01
+```
+
+https://github.com/procedural/rtx_hybrid_rendering
+```
+509f768cddb705afd26a639e3440240357b6b009	HEAD
+509f768cddb705afd26a639e3440240357b6b009	refs/heads/master
+6c70d067cc44921271e91b7b6afc4fd7e68e22db	refs/tags/0.1
+aa0aece01a414e71d47b339e293f1571e0ca6ead	refs/tags/1.0.0
+```
+
 https://github.com/procedural/script
 ```
 d4a0c5cd2496d2e27feb4d8b6adfc9887cc36c36	HEAD
@@ -1341,6 +1419,97 @@ b6ce5449445eb4571c6b4f88daef4e3c358d453e	refs/heads/master
 a9f8a7f69ac1ab8e8f9a0394de0d1c902522b023	refs/heads/release_preparation
 058342fa5b95d26bceade4ca229b51714e144805	refs/tags/v0.83
 c27cf9bf77e064161ea157caf41d96d1f89c56c3	refs/tags/v0.9.0
+```
+
+https://github.com/procedural/sokol
+```
+e8931e4399a0eb4bf026120d7bdb89825815af9e	HEAD
+f7490ca42e116eda199d9e62c1e9f570d53ee277	refs/heads/Aftnet-uwpaudio
+3e67875d15e6fa2502d628bca30fefc6a801e387	refs/heads/bindgen
+0af17fb7cdac7ff64a82abf97d9951aed54147dd	refs/heads/bindgen-friendly
+034b2c8b87fe643c102b73657266fa42b398ffff	refs/heads/bindgen-prepare
+4f4cb64acc934c8894978221642529e130790a18	refs/heads/color-blend-state
+235ac2170e39fc1f710302059a50a3a46588faff	refs/heads/compr-texture-update
+5c022857b02bb41ad2ae6b8a03abb95d198d54d3	refs/heads/d3d11-tex-srv
+8f147b996e64fa01bbb7456d636f92433c13aaaf	refs/heads/dxgi-swapchain
+53269c9269a5215e2bd9aa4b3c7c4eec6bf3e6f6	refs/heads/garettbass-master
+e1a3cd6fa5b7d6f6dee6f9d958e1d432e05d6a8a	refs/heads/gl-loader
+75b4dda2c0c2158b1f23e891a59ce55157423fdc	refs/heads/html5-dragdrop
+c83eca047c951210a03f114eb6c0cd5ab5927ad3	refs/heads/instancing-596
+e8931e4399a0eb4bf026120d7bdb89825815af9e	refs/heads/master
+67a90a95dc37c9d1b637e8f7e9ec5beb4ffda5c6	refs/heads/nyalloc-spritebatch
+7e0761ba7f25bdea3dd9c278802a0250dc1cd5da	refs/heads/oviano-sokol-audio-avaudiosession
+e7005b2736ce124fec69c5c5c9c8fee50757028e	refs/heads/prime31-file-drop
+a55ba2a991f7ff14d21de67f6ca95297582ab98f	refs/heads/sapp-frame-duration
+f64e1ee7f0ba81fad1105e3823432a7fef1dd59f	refs/heads/sapp-mousebutton-modifiers
+57688eb0c5d09f6149ae6a612c5b53a56e94c328	refs/heads/sapp-multiwindow
+795296c3797f4ac4dcd5c50310f2938116ce2169	refs/heads/sapp-window-icons
+f29ca37d7055856f4817c13c87560ff6ac0ab104	refs/heads/saudio-no-coreaudio-headers
+edb9b39f2471f399d1878325a6f9c8b633972f2f	refs/heads/sgl-pointsize
+4478091a57807c03e50dfcea93f2cb32560b4066	refs/heads/sokol-app-gfx-oc
+35330a8ffd9dd3ff8a227dddc515d03a28b6d275	refs/heads/sokol-shapes
+dcd772117f9140ddd49357ad6cb2bea0cfddb58a	refs/heads/tjachmann-master
+7b02cbb58bb96796ead3b50162996d0491fca04b	refs/heads/vlang-set_title
+366e5b9270d645f962406cf00d9dab8e1f9d7f9a	refs/heads/wgpu
+84a5263c04adfc328aa1758c95d217ebcb206474	refs/heads/wmerrifield-sokol_nuklear
+47ef7df731c6690b47acb6ae2810e74e57b0a5aa	refs/tags/old-pixelformats
+9acfe8cf7b3597bfad39847a0daa564dad91b8ae	refs/tags/pre-feb2021-api-changes
+ac79122046d875c0f222c9911a06264a825c9135	refs/tags/pre-webgpu
+ef60ce8b73850cc074dbf5a75d0d6d052f85b4d2	refs/tags/pre-webgpu^{}
+```
+
+https://github.com/procedural/sokol-samples
+```
+1fe2ac2b0d4c1295c13a427b81e18eb8754ed40a	HEAD
+5649ad92455724348a15d7e9685c16e642a40026	refs/heads/bindgen
+c087783b1d7685361c4ce1f80f3ece35a91172df	refs/heads/bindgen-friendly
+1ea8089361f1bac9f9d2c335e9906fdd1c69f2ac	refs/heads/bindgen-prepare
+aca8fabb0e9a7f369371ff078fbd87215bcb75bf	refs/heads/border-color
+1ebe915fc0f8447162145dfa692cdd9c347c386c	refs/heads/cgltf-sapp
+f264fbe3ac118bc5ab06e9e49987a881fa823aa0	refs/heads/color-blend-state
+de2f038a5ceb1c0dc1125c3207a36153a2d289a3	refs/heads/d3d11-cpp
+3390ce16bda23fbbfad4d0ebcb0130df4afc6f55	refs/heads/d3dcompiler
+831357c60bb092a88ed458485e6941dcee67279b	refs/heads/dbgui
+9ef90b1aa0b2ca5237f3ce4560ee94f134f1f6e1	refs/heads/dragdrop
+014e5151bea40942b11319e3584e4d3fefb47774	refs/heads/emsc-mini-runtime
+ad304e837d5665b64111ad2ba7b0e88d940b6009	refs/heads/focus-event
+d616159a62285b1657f6881de2b44f65e2ff51a7	refs/heads/gl-loader
+b7dc91055b40a4207bd6afc7d769cc0b2ab6f5dd	refs/heads/html5-dragdrop
+1fe2ac2b0d4c1295c13a427b81e18eb8754ed40a	refs/heads/master
+95f039bfd638617c9a5a49569c5cadbd4a6eb91b	refs/heads/no-entry
+35302459c815edd527e34929f1c8e38127dc2142	refs/heads/nyalloc-spritebatch
+4da8e00dfdff1abbb210d6ffcd8f8ec294c2d8e2	refs/heads/nyalloc-spritebatch-wip
+a4b839d4852acd4d0d7962cf72be20468e86abc5	refs/heads/pixelformat
+0dbd42eafc4da395cee4e794d54a2d9dbcf49aae	refs/heads/pl_mpeg
+8504a1f15e292106e759ca8e77e5596e9043af1d	refs/heads/pointer-lock-2
+9ba033d51c5c6dd33c88f299a5131484070ee48e	refs/heads/sapp-clipboard
+ab7a7932100371fbb0bb6620fbf56c7ddc58449b	refs/heads/sapp-default-window-size
+249d3f0d42b7ecb510bb498873b97eb1178db111	refs/heads/sapp-frame-duration
+9ef804d7aea7123244bcb151fb9435886eb14e89	refs/heads/sapp-mousebutton-modifiers
+67ec7e921317efd72c27b0ab657af9e898a5b41f	refs/heads/sapp-multiwindow
+c606b6394abf4bb4d56a40b52994a9ed52b8c186	refs/heads/sapp-ozzanimation
+9cd9124ac1fdb1b815231c49b8d9ee74e0acc20c	refs/heads/sapp-shaderfeatures
+984b08d4389f90b942c0a7d1f83e4d0707b3b679	refs/heads/sapp-userdata
+3d769b9d5e6d3fbc90283a8cfbe77502b5320a42	refs/heads/sapp-window-icons
+b0c49ee1dd49e61bc320e6f00e05749253a17aa0	refs/heads/set_window_title
+40bf49bc1c0104195e6c812a61bf961e77a89048	refs/heads/sgl-pipeline-stack
+e4a85ce14baf36748e5ada9faefe557060a214ae	refs/heads/shader-attr-names
+c89eac34b406c26d471133ccc35d2334aacbec17	refs/heads/simgui-new-frame-with-dpi
+6c6cf38053c0ccc61f7ef4b0e33fc05af8d331ee	refs/heads/simgui-sgl-test
+eee9128cbab4af2a7797e2e4017f03ba946926c1	refs/heads/sokol-app-gfx-oc
+56d00fcd1128cc1897a1a14d7bb800c6fd5112db	refs/heads/sokol-app-restruct
+b63e5122b144c827814eebfbb5c48fe6b13b57e2	refs/heads/sokol-fetch-rework
+00f5b19ea7106a5579bf872ce15a874f1b565b13	refs/heads/sokol-io
+56afbbbaf2cb0153292f4bff30cbe663350b0b8c	refs/heads/sokol-shapes
+29a1159d720d2ca9a4d891c71ec34e6b88fa9ec4	refs/heads/sokol-shdc
+b361a6a4e35a4dc00967a977984f79ffc701c0ad	refs/heads/upd_buf_bug
+94fe7ede4bfa6cd58ddb6159984b74a1371089b2	refs/heads/uwp
+c3c6048a985ee0c972760b87d740ae05147011b6	refs/heads/webgpu
+69f4eefa220bde928b90f085774e3a49e920faf6	refs/heads/wgpu
+a718d5033ce35af80110ba81057d9294983b153a	refs/heads/wmerrifield-nuklear-sapp
+89f5825ab5d36906b2dc219efbce3d00be9e7cdf	refs/tags/pre-feb2021-api-changes
+3c4b3155bbe5cfd916f177cf5f7a379b506b1bf0	refs/tags/pre-webgpu
+31f09afcbb0ebcff75b19a31ba63e68eb5cba42c	refs/tags/pre-webgpu^{}
 ```
 
 https://github.com/procedural/spdlog_binaries_ubuntu_16_04
@@ -1412,6 +1581,24 @@ https://github.com/procedural/the_hidden_design_of_a_code_editor
 56ca6bff9230acb33b30f2e950d33dd2edbc093e	refs/heads/main
 ```
 
+https://github.com/procedural/tinycc
+```
+adacaf5e9a0b3b6e872bfc64f9fad56a64c8bbe6	HEAD
+b91835d8701523e895a2b447713630069514e291	refs/heads/dev
+adacaf5e9a0b3b6e872bfc64f9fad56a64c8bbe6	refs/heads/mob
+27f6e16bae9d0f73acec07f61aea696ab5adc680	refs/tags/initial
+0d6f8021ee8874f4537e92a3621321086b268e24	refs/tags/release_0_9_18
+d0476a0e2e9052055cf8fadd65e475fb759999df	refs/tags/release_0_9_19
+44cea6aee95b36592743ebcca15087e5afc7d7cc	refs/tags/release_0_9_20
+0b8d7f44b4c0bd1b58ead37ec90672ed3dd08e89	refs/tags/release_0_9_22
+16559cd60c53fd0a728bbc212fa2e560d0fccb12	refs/tags/release_0_9_23
+f22e961f805d25482d0eefabc7a1bca202cbe599	refs/tags/release_0_9_24
+110a4edc154f6fb73ef3d312630455f68641123f	refs/tags/release_0_9_25
+7e7a362ee9012852494c8d9d6c3d97c93d3bab12	refs/tags/release_0_9_26
+d5e22108a0dc48899e44a158f91d5b3215eb7fe6	refs/tags/release_0_9_26^{}
+d348a9a51d32cece842b7885d27a411436d7887b	refs/tags/release_0_9_27
+```
+
 https://github.com/procedural/twitter
 ```
 d6a927c64c539424c640905e7808304d2251c246	HEAD
@@ -1436,6 +1623,25 @@ https://github.com/procedural/unity_computestochasticreflections
 bfa8f8b8fe1720dec21f72725a7aa83f23fe07a9	refs/heads/StereoRendering
 077490ce80adc8912978cdcc6301451259e06bdf	refs/heads/master
 dda25924dc443ed2b2347ea0034fe80574aefb46	refs/tags/1.0.1
+```
+
+https://github.com/procedural/vez
+```
+29d2229e44ee692f74a33b698c80273ebcc67c3e	HEAD
+5b94c85612138f79af646f49538db9e66cbe2f5c	refs/heads/gh-pages
+29d2229e44ee692f74a33b698c80273ebcc67c3e	refs/heads/master
+```
+
+https://github.com/procedural/vk_mini_path_tracer
+```
+36cb83f88952ed1fbd890280476198d91bc235ce	HEAD
+36cb83f88952ed1fbd890280476198d91bc235ce	refs/heads/main
+```
+
+https://github.com/procedural/vk_raytracing_tutorial_KHR
+```
+596b641a5687307ee9f58193472e8b620ce84189	HEAD
+596b641a5687307ee9f58193472e8b620ce84189	refs/heads/master
 ```
 
 https://github.com/procedural/voxel_cone_tracing
@@ -2015,12 +2221,6 @@ https://github.com/procedural/vulkan_pathtracing
 ```
 d85e5a721dd1a3f206455d345d7ea7c702394097	HEAD
 d85e5a721dd1a3f206455d345d7ea7c702394097	refs/heads/master
-```
-
-https://github.com/procedural/vulkan_ray_tracing
-```
-36cb83f88952ed1fbd890280476198d91bc235ce	HEAD
-36cb83f88952ed1fbd890280476198d91bc235ce	refs/heads/main
 ```
 
 https://github.com/procedural/vulkan_ray_tracing_nvpro_core
