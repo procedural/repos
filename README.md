@@ -523,8 +523,8 @@ https://github.com/procedural/FWK_27_Aug_2021
 
 https://github.com/procedural/gamescript
 ```
-fe9bbc43ac8a71d12a05912ad9edaa4e51124ab0	HEAD
-fe9bbc43ac8a71d12a05912ad9edaa4e51124ab0	refs/heads/main
+718c3d416b52ba661a2a18a07db385618e9b9f8b	HEAD
+718c3d416b52ba661a2a18a07db385618e9b9f8b	refs/heads/main
 ```
 
 https://github.com/procedural/gamescript_c
@@ -1361,8 +1361,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-c082502b5afcef2f0e02bf3fdb79e664a8d54b6b	HEAD
-c082502b5afcef2f0e02bf3fdb79e664a8d54b6b	refs/heads/master
+2d25906bb6ba159586f5d10f59d92f521f1e8498	HEAD
+2d25906bb6ba159586f5d10f59d92f521f1e8498	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -2260,6 +2260,12 @@ https://github.com/procedural/webgpu_rs_binaries_ubuntu
 ```
 a3cc91a8b91e2aab2d25c586146a9696bfb1ffdd	HEAD
 a3cc91a8b91e2aab2d25c586146a9696bfb1ffdd	refs/heads/master
+```
+
+https://github.com/procedural/wikipedia_2022_russian_invasion_of_ukraine
+```
+fd81fcd5f9e6405689bf2dcdcbe30906ac3b1a25	HEAD
+fd81fcd5f9e6405689bf2dcdcbe30906ac3b1a25	refs/heads/main
 ```
 
 https://github.com/procedural/windows_and_visual_studio_info
