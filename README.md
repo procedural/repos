@@ -523,8 +523,14 @@ https://github.com/procedural/FWK_27_Aug_2021
 
 https://github.com/procedural/gamescript
 ```
-718c3d416b52ba661a2a18a07db385618e9b9f8b	HEAD
-718c3d416b52ba661a2a18a07db385618e9b9f8b	refs/heads/main
+99c0730dca5008ed8f03518393329f4a32248d5b	HEAD
+99c0730dca5008ed8f03518393329f4a32248d5b	refs/heads/main
+```
+
+https://github.com/procedural/gamescriptx
+```
+1252191ac64956177051e64d883672562056cdc6	HEAD
+1252191ac64956177051e64d883672562056cdc6	refs/heads/main
 ```
 
 https://github.com/procedural/gamescript_c
@@ -1198,6 +1204,12 @@ fc666159b758081fb1f58dbf90b6aa0af3a8268b	refs/tags/0.92
 ff02769271294639a3a91bef06c5a8b71fc55cfd	refs/tags/0.94^{}
 ```
 
+https://github.com/procedural/procedural
+```
+d1039e3bfc0029e385f9a8740c26b5cf154b8634	HEAD
+d1039e3bfc0029e385f9a8740c26b5cf154b8634	refs/heads/main
+```
+
 https://github.com/procedural/proctree
 ```
 21f2842dccd750c0bf2e0473c5dc8113811aed0e	HEAD
@@ -1361,8 +1373,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-2d25906bb6ba159586f5d10f59d92f521f1e8498	HEAD
-2d25906bb6ba159586f5d10f59d92f521f1e8498	refs/heads/master
+942fee37230f705478995fb3992e6e645fe91f55	HEAD
+942fee37230f705478995fb3992e6e645fe91f55	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -2264,8 +2276,8 @@ a3cc91a8b91e2aab2d25c586146a9696bfb1ffdd	refs/heads/master
 
 https://github.com/procedural/wikipedia_2022_russian_invasion_of_ukraine
 ```
-fd81fcd5f9e6405689bf2dcdcbe30906ac3b1a25	HEAD
-fd81fcd5f9e6405689bf2dcdcbe30906ac3b1a25	refs/heads/main
+bd3e56fe7e7efcd6ad368c350da82c95b73a90fe	HEAD
+bd3e56fe7e7efcd6ad368c350da82c95b73a90fe	refs/heads/main
 ```
 
 https://github.com/procedural/windows_and_visual_studio_info
