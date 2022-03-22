@@ -43,6 +43,41 @@ https://github.com/procedural/amdgpu_umr_debugger
 5909d8cb66bcd6e7fbaf986dc6d89c8fbb394f9e	refs/heads/master
 ```
 
+https://github.com/procedural/amd_cauldron
+```
+c3aef188a2679141f1924a907c6fe6dcefd532ca	HEAD
+c3aef188a2679141f1924a907c6fe6dcefd532ca	refs/heads/master
+e7ca80d72d3cf750ebb3237e907fb7d3632f3748	refs/heads/v1.1.1
+e85054054ae65f92c52f8cdde988d1b448f8dbf2	refs/heads/v1.2.1
+5a82a0ce20ea74e27e5e8818b78f0317d2e36157	refs/heads/v1.2.2
+2d991756adc58b58cde97c4b204fc216173cc5a7	refs/heads/v1.3.2
+8530be0b7c65886726761944ec7855ce74d09db9	refs/tags/v1.0
+fd91cd744d014505daef1780dceee49fd62ce953	refs/tags/v1.1
+e7ca80d72d3cf750ebb3237e907fb7d3632f3748	refs/tags/v1.1.1
+050b274df95777d688686d017a6926a515a58b30	refs/tags/v1.2
+e85054054ae65f92c52f8cdde988d1b448f8dbf2	refs/tags/v1.2.1
+5a82a0ce20ea74e27e5e8818b78f0317d2e36157	refs/tags/v1.2.2
+b3a4f62bf79034240b979d575e67ee51790ab435	refs/tags/v1.3
+5f1bc5feaf0dd9379e87bdc64f520753e46cb5ba	refs/tags/v1.3.1
+2d991756adc58b58cde97c4b204fc216173cc5a7	refs/tags/v1.3.2
+d22060043138b38e3aa01f766227ee0bd4e4f83e	refs/tags/v1.4
+3e4a021fc0d3e0372347126771a5155016810a11	refs/tags/v1.4.1
+c3aef188a2679141f1924a907c6fe6dcefd532ca	refs/tags/v1.4.2
+```
+
+https://github.com/procedural/amd_cauldron_example
+```
+cfec7c01cab53127abd78c10aee297dd966cf0b0	HEAD
+cfec7c01cab53127abd78c10aee297dd966cf0b0	refs/heads/master
+d493187344d8bf03cc0d19d1d55f58f1055d0ff4	refs/tags/V1.1
+3a29fcadffb5e4b06c9a21e407345f5fef152301	refs/tags/V1.1^{}
+46b2d0160b6d7a3c325fdd7cd1d3de38d4a33091	refs/tags/v1.0
+e0555003577adc267e37dc0227026688e6a0e646	refs/tags/v1.2
+11f4bc702a2fa01f0b903b807b52a8f1528c05d6	refs/tags/v1.3
+929c172ed55cdecc659268be9704380a15e3c68f	refs/tags/v1.4
+cfec7c01cab53127abd78c10aee297dd966cf0b0	refs/tags/v1.4.1
+```
+
 https://github.com/procedural/amd_radeontop
 ```
 ae2ce9ba47e821dbf7e5808cf44bb7d41b04374c	HEAD
@@ -144,8 +179,8 @@ e4a2dc46e26eeb2ad22a92e073d88904e0e6a21c	refs/tags/blender-v2.93-release-03d5c8b
 
 https://github.com/procedural/c
 ```
-4875eb4e700a2499a15fb3f83c9da2c4ebf67eb4	HEAD
-4875eb4e700a2499a15fb3f83c9da2c4ebf67eb4	refs/heads/master
+08032234c2966284879892f295d2bdb850f3fc31	HEAD
+08032234c2966284879892f295d2bdb850f3fc31	refs/heads/master
 4875eb4e700a2499a15fb3f83c9da2c4ebf67eb4	refs/tags/misc
 ```
 
@@ -409,6 +444,17 @@ https://github.com/procedural/device_telemetry_api_in_a_nutshell
 8e243e26b64c654cb6f6f3fc0175bd8b5fd25d44	refs/heads/main
 ```
 
+https://github.com/procedural/devzat
+```
+90b31356c11a5242cc55117f184877bce61a633c	HEAD
+90b31356c11a5242cc55117f184877bce61a633c	refs/heads/main
+817400468341b1b94fbe1e8e1a20874cf7747013	refs/heads/patch-1
+7393f42b4c33f8d725de823d397105602e4548ea	refs/heads/v2
+90b31356c11a5242cc55117f184877bce61a633c	refs/tags/16_Mar_2022
+28dd94b963f629b49fca2991157399d789a25935	refs/tags/v0.1.5
+fa5ae61ef9bf17e0345bab2fd3cc0745d63cfa8c	refs/tags/v0.1.5^{}
+```
+
 https://github.com/procedural/directx_headers
 ```
 e2e2b456e8b77714455bf4074fa3a249b91b36ab	HEAD
@@ -523,20 +569,27 @@ https://github.com/procedural/FWK_27_Aug_2021
 
 https://github.com/procedural/gamescript
 ```
-99c0730dca5008ed8f03518393329f4a32248d5b	HEAD
-99c0730dca5008ed8f03518393329f4a32248d5b	refs/heads/main
+732bd719ba584df0f3d61b07b0c8a171ba6f2be3	HEAD
+732bd719ba584df0f3d61b07b0c8a171ba6f2be3	refs/heads/main
 ```
 
 https://github.com/procedural/gamescriptx
 ```
-1252191ac64956177051e64d883672562056cdc6	HEAD
-1252191ac64956177051e64d883672562056cdc6	refs/heads/main
+9f381951c6da75a88b930e8639e716e3a839a1e1	HEAD
+9f381951c6da75a88b930e8639e716e3a839a1e1	refs/heads/main
 ```
 
 https://github.com/procedural/gamescript_c
 ```
-df90bbdd7fe89180f47b70d4b9a89b56bcf32fca	HEAD
-df90bbdd7fe89180f47b70d4b9a89b56bcf32fca	refs/heads/main
+dec86319bb1be7f0119725b61634d62516dc03ae	HEAD
+dec86319bb1be7f0119725b61634d62516dc03ae	refs/heads/main
+dec86319bb1be7f0119725b61634d62516dc03ae	refs/tags/27_Feb_2022
+```
+
+https://github.com/procedural/gamescript_c_header
+```
+cbb18e80df3d707d7391c7ee6abd4c726f77e621	HEAD
+cbb18e80df3d707d7391c7ee6abd4c726f77e621	refs/heads/main
 ```
 
 https://github.com/procedural/gamescript_fbx_examples
@@ -566,8 +619,8 @@ https://github.com/procedural/gamescript_native_swift
 
 https://github.com/procedural/gamescript_raytracing
 ```
-e7642b02b9b66bc44bf908467722ed6b979e720f	HEAD
-e7642b02b9b66bc44bf908467722ed6b979e720f	refs/heads/master
+53af4215a6351275def27da8bc4e311ffe702f5d	HEAD
+53af4215a6351275def27da8bc4e311ffe702f5d	refs/heads/master
 ```
 
 https://github.com/procedural/gi
@@ -1178,6 +1231,12 @@ faad65307b43a0cfb2bfbc3e61de36daf124f0dd	refs/heads/master
 5775c6fa68dbd6db0a724b420ded89fd03a2b5e2	refs/tags/v1.2
 ```
 
+https://github.com/procedural/pl0
+```
+c90945a724c757d93577f41e18d45f7753f53a88	HEAD
+c90945a724c757d93577f41e18d45f7753f53a88	refs/heads/master
+```
+
 https://github.com/procedural/plasma
 ```
 65181d73849a3fc22d42391e90816c43352edcc4	HEAD
@@ -1242,7 +1301,7 @@ https://github.com/procedural/r600
 4d4e63d012c3f9a1879780b164124afb2312a4dd	refs/heads/test1
 ```
 
-https://github.com/procedural/radeonrays_sdk
+https://github.com/procedural/radeonrays
 ```
 c8890b96b1f976bedd2cd280cc170dff5d655e0a	HEAD
 962b9648a2df9de0b67e40d98f8c606d97526709	refs/heads/baikal-next
@@ -1373,8 +1432,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-942fee37230f705478995fb3992e6e645fe91f55	HEAD
-942fee37230f705478995fb3992e6e645fe91f55	refs/heads/master
+de3d6dcf803f233814ad09f8b2d8c657dc0f840b	HEAD
+de3d6dcf803f233814ad09f8b2d8c657dc0f840b	refs/heads/master
 ```
 
 https://github.com/procedural/rev
