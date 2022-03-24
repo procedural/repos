@@ -2,8 +2,8 @@
 
 https://github.com/redgpu/framework
 ```
-771df9c3ac78985a0a09049f33c0ce4a2d883502	HEAD
-771df9c3ac78985a0a09049f33c0ce4a2d883502	refs/heads/master
+0b051e82215191c86fa57a8be636d3c8158e71b6	HEAD
+0b051e82215191c86fa57a8be636d3c8158e71b6	refs/heads/master
 ```
 
 https://github.com/redgpu/redgpu
@@ -588,8 +588,8 @@ dec86319bb1be7f0119725b61634d62516dc03ae	refs/tags/27_Feb_2022
 
 https://github.com/procedural/gamescript_c_header
 ```
-cbb18e80df3d707d7391c7ee6abd4c726f77e621	HEAD
-cbb18e80df3d707d7391c7ee6abd4c726f77e621	refs/heads/main
+6f744d9559770d3a6077d09ac8a065e296add4b8	HEAD
+6f744d9559770d3a6077d09ac8a065e296add4b8	refs/heads/main
 ```
 
 https://github.com/procedural/gamescript_fbx_examples
@@ -615,12 +615,13 @@ https://github.com/procedural/gamescript_native_swift
 ```
 81a4d40e6c9bc1bfd4f793efe7d55b95b99a0abe	HEAD
 81a4d40e6c9bc1bfd4f793efe7d55b95b99a0abe	refs/heads/master
+81a4d40e6c9bc1bfd4f793efe7d55b95b99a0abe	refs/tags/27_Feb_2022
 ```
 
 https://github.com/procedural/gamescript_raytracing
 ```
-53af4215a6351275def27da8bc4e311ffe702f5d	HEAD
-53af4215a6351275def27da8bc4e311ffe702f5d	refs/heads/master
+f7f0f6f2be6736996417cbf8f04469994ad64560	HEAD
+f7f0f6f2be6736996417cbf8f04469994ad64560	refs/heads/master
 ```
 
 https://github.com/procedural/gi
@@ -1037,8 +1038,8 @@ https://github.com/procedural/linux_nvidia_driver_install
 
 https://github.com/procedural/linux_shared_library_catastrophe
 ```
-758a3430ea93d7a89e5dbe4f6820d9c0341e0995	HEAD
-758a3430ea93d7a89e5dbe4f6820d9c0341e0995	refs/heads/master
+2a9d61ace2d90fdd0d802d17b88b1f5f12ea960e	HEAD
+2a9d61ace2d90fdd0d802d17b88b1f5f12ea960e	refs/heads/master
 ```
 
 https://github.com/procedural/linux_static_library_catastrophe
@@ -1263,12 +1264,6 @@ fc666159b758081fb1f58dbf90b6aa0af3a8268b	refs/tags/0.92
 ff02769271294639a3a91bef06c5a8b71fc55cfd	refs/tags/0.94^{}
 ```
 
-https://github.com/procedural/procedural
-```
-d1039e3bfc0029e385f9a8740c26b5cf154b8634	HEAD
-d1039e3bfc0029e385f9a8740c26b5cf154b8634	refs/heads/main
-```
-
 https://github.com/procedural/proctree
 ```
 21f2842dccd750c0bf2e0473c5dc8113811aed0e	HEAD
@@ -1432,8 +1427,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-de3d6dcf803f233814ad09f8b2d8c657dc0f840b	HEAD
-de3d6dcf803f233814ad09f8b2d8c657dc0f840b	refs/heads/master
+9d68cd5cebdc28e2f3a3cf0e50068abac92ff3d9	HEAD
+9d68cd5cebdc28e2f3a3cf0e50068abac92ff3d9	refs/heads/master
 ```
 
 https://github.com/procedural/rev
