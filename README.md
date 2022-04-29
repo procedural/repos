@@ -116,6 +116,12 @@ c0abadf3cd07eb2b5e5ad694f680705c7b1c764e	refs/tags/v1.0^{}
 e79a7b82d0ce93fe0adad5bb1351a7c812d73af7	refs/tags/v1.3^{}
 ```
 
+https://github.com/procedural/android
+```
+893e944c7e4a3969ff106ed44dda23a223efa1d2	HEAD
+893e944c7e4a3969ff106ed44dda23a223efa1d2	refs/heads/master
+```
+
 https://github.com/procedural/archive
 ```
 5e9d3d344e3501dea34ce441af32f695a9ac62ec	HEAD
@@ -406,6 +412,12 @@ https://github.com/procedural/c_unsignedCharToHex
 78cce4eb6bd4fb812a57a9453d804e5088fceb28	refs/heads/master
 ```
 
+https://github.com/procedural/c_windows
+```
+b5acff2b51b7635c627b94d4a449af94f1470dff	HEAD
+b5acff2b51b7635c627b94d4a449af94f1470dff	refs/heads/main
+```
+
 https://github.com/procedural/c_x11
 ```
 a03b542ce5daf557d853e93c16c5f42b2ad1ecca	HEAD
@@ -436,6 +448,12 @@ https://github.com/procedural/D3DSamples
 ```
 a535a6b454e8e8e34502c21b75bb4782af65e591	HEAD
 a535a6b454e8e8e34502c21b75bb4782af65e591	refs/heads/master
+```
+
+https://github.com/procedural/Declaration_for_the_Future_of_the_Internet
+```
+576b0e72275a4bdd4abb53f011535a1f1c601cda	HEAD
+576b0e72275a4bdd4abb53f011535a1f1c601cda	refs/heads/main
 ```
 
 https://github.com/procedural/device_telemetry_api_in_a_nutshell
@@ -569,14 +587,16 @@ https://github.com/procedural/FWK_27_Aug_2021
 
 https://github.com/procedural/gamescript
 ```
-732bd719ba584df0f3d61b07b0c8a171ba6f2be3	HEAD
-732bd719ba584df0f3d61b07b0c8a171ba6f2be3	refs/heads/main
+0e9136eab02b865da07d4d813275519f97114883	HEAD
+0e9136eab02b865da07d4d813275519f97114883	refs/heads/main
+0e9136eab02b865da07d4d813275519f97114883	refs/tags/27_Feb_2022
 ```
 
 https://github.com/procedural/gamescriptx
 ```
-9f381951c6da75a88b930e8639e716e3a839a1e1	HEAD
-9f381951c6da75a88b930e8639e716e3a839a1e1	refs/heads/main
+3a9e4a3284b3f4f00712292f926cbe0f120928a6	HEAD
+3a9e4a3284b3f4f00712292f926cbe0f120928a6	refs/heads/main
+3a9e4a3284b3f4f00712292f926cbe0f120928a6	refs/tags/05_Apr_2022
 ```
 
 https://github.com/procedural/gamescript_c
@@ -590,6 +610,12 @@ https://github.com/procedural/gamescript_c_header
 ```
 6f744d9559770d3a6077d09ac8a065e296add4b8	HEAD
 6f744d9559770d3a6077d09ac8a065e296add4b8	refs/heads/main
+```
+
+https://github.com/procedural/gamescript_experiments
+```
+31f25ad5ed77f015a9d4a8aa913ab8cf966ad646	HEAD
+31f25ad5ed77f015a9d4a8aa913ab8cf966ad646	refs/heads/main
 ```
 
 https://github.com/procedural/gamescript_fbx_examples
@@ -756,6 +782,12 @@ https://github.com/procedural/have_you_tried
 041fd023c843bebd3ab8a8f2a9994dcbeca4d0fa	refs/heads/main
 ```
 
+https://github.com/procedural/heavy_overdose_of_cocaine
+```
+20d9c2005eae6c3c61321780204fde6c3c9ecec7	HEAD
+20d9c2005eae6c3c61321780204fde6c3c9ecec7	refs/heads/main
+```
+
 https://github.com/procedural/hello_world
 ```
 98a222b6cabcd0f3457027fcf735cd8da050df16	HEAD
@@ -869,6 +901,12 @@ https://github.com/procedural/kate_themes
 ```
 fb3c256f6ff1e4d82f352f503edb91d8511bdf78	HEAD
 fb3c256f6ff1e4d82f352f503edb91d8511bdf78	refs/heads/master
+```
+
+https://github.com/procedural/killgnu
+```
+a96a7a08803be48dba4f67444c1d2d06202202b4	HEAD
+a96a7a08803be48dba4f67444c1d2d06202202b4	refs/heads/master
 ```
 
 https://github.com/procedural/kissnet
@@ -1160,6 +1198,14 @@ fa6ebda53f1be0bb40513057d13b154771344528	refs/tags/2.1.0
 b1a90f36013522b9e5a3a2197859b72188752e3f	refs/tags/2.1.2
 ```
 
+https://github.com/procedural/nvpro_core
+```
+7555ca5a30416e0134177b770aee1deff8ba3912	HEAD
+b8faf99403e219937fd3189987729d4049ad6c40	refs/heads/gl_commandlist_bk3d_models
+abab42d24c93cdf82f06d8c2851d5ce79c1dfad4	refs/heads/gl_vk_bk3dthreaded
+7555ca5a30416e0134177b770aee1deff8ba3912	refs/heads/master
+```
+
 https://github.com/procedural/o3de
 ```
 88725210c1406b4a06348b88ccc7b807dd9e367f	HEAD
@@ -1349,14 +1395,14 @@ ba63c7e7e991f864ea8c14d2b6f0352459770336	refs/heads/update
 
 https://github.com/procedural/redgpu_green_struct
 ```
-b2e5aaeb5ee1e0e46a88c21bcde871b09d3daab9	HEAD
-b2e5aaeb5ee1e0e46a88c21bcde871b09d3daab9	refs/heads/master
+34ec453aa4137dae92ee0f918c3a049b8f64e9a1	HEAD
+34ec453aa4137dae92ee0f918c3a049b8f64e9a1	refs/heads/master
 ```
 
 https://github.com/procedural/redgpu_helper
 ```
-4b13685d9937ce3faaeee895e1e6d5a945e37150	HEAD
-4b13685d9937ce3faaeee895e1e6d5a945e37150	refs/heads/master
+4b9f74d6eca00f1bbb30e504cf928a7796d59e2a	HEAD
+4b9f74d6eca00f1bbb30e504cf928a7796d59e2a	refs/heads/master
 ```
 
 https://github.com/procedural/redgpu_info
@@ -1367,8 +1413,8 @@ https://github.com/procedural/redgpu_info
 
 https://github.com/procedural/redgpu_inline_procedure
 ```
-0ca77635c7b8ad8e2d6132075fdb94777ca68ff1	HEAD
-0ca77635c7b8ad8e2d6132075fdb94777ca68ff1	refs/heads/master
+13eca26383a34132f609e45ddfc21f221374f91e	HEAD
+13eca26383a34132f609e45ddfc21f221374f91e	refs/heads/master
 ```
 
 https://github.com/procedural/redgpu_memory_allocator_dma
@@ -1379,8 +1425,8 @@ https://github.com/procedural/redgpu_memory_allocator_dma
 
 https://github.com/procedural/redgpu_memory_allocator_vma
 ```
-d7e12298f48dd608a885bdc7cc1991c96a2607fd	HEAD
-d7e12298f48dd608a885bdc7cc1991c96a2607fd	refs/heads/master
+426197a97a483da79d6972ddd085446b859f97d8	HEAD
+426197a97a483da79d6972ddd085446b859f97d8	refs/heads/master
 ```
 
 https://github.com/procedural/redgpu_profile
@@ -1389,10 +1435,22 @@ https://github.com/procedural/redgpu_profile
 49989151e28f82f41802808af8534737dd823cda	refs/heads/master
 ```
 
+https://github.com/procedural/redgpu_swift_template_program
+```
+cbf233535078e80d627c5960c79283ef271b1fa7	HEAD
+cbf233535078e80d627c5960c79283ef271b1fa7	refs/heads/main
+```
+
 https://github.com/procedural/redgpu_tips
 ```
 8ab6d0ac8eecc957c5ce6b027e001b3a60b6fa2d	HEAD
 8ab6d0ac8eecc957c5ce6b027e001b3a60b6fa2d	refs/heads/master
+```
+
+https://github.com/procedural/redgpu_ultimate
+```
+fa83b86b8ba5cf8ebb65eb718224714bfed5db50	HEAD
+fa83b86b8ba5cf8ebb65eb718224714bfed5db50	refs/heads/main
 ```
 
 https://github.com/procedural/rei
@@ -1427,8 +1485,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-9d68cd5cebdc28e2f3a3cf0e50068abac92ff3d9	HEAD
-9d68cd5cebdc28e2f3a3cf0e50068abac92ff3d9	refs/heads/master
+aaaecbd2cb7b29f933723bd4ccd91cdf7b2c2d9e	HEAD
+aaaecbd2cb7b29f933723bd4ccd91cdf7b2c2d9e	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -1609,6 +1667,189 @@ https://github.com/procedural/suzanne
 57980b616124dc90055443ee20bbb2c393aba81f	refs/heads/main
 ```
 
+https://github.com/procedural/swift_winrt
+```
+ed92eeeee558734a626c973c376142f596845ca7	HEAD
+ed92eeeee558734a626c973c376142f596845ca7	refs/heads/main
+```
+
+https://github.com/procedural/taichi
+```
+def1660243f770b6d5b264ca9d269b57001abe7d	HEAD
+279d737a0241a85b354c8f134c9aa6c640d3810d	refs/heads/add-mciso-mpm3d
+a2c7ee460613f89bd4c8f45b546e72fd73ff5c8c	refs/heads/archibate-odop
+41496331b069741513fa2f1799018ac477a9cc33	refs/heads/bobcao3-patch-4
+f231f8f257c4efe1a69548dfc675315755fefce8	refs/heads/bump/v1.0.1
+9d4adc0adb3d5cf76462b061fa1f37b7c174ce8e	refs/heads/contributing
+174421b0546a61d6c37226106b15ea0a0139224b	refs/heads/diffmpm3d_benchmark
+e579ea51a75b1f86ba8cad7dd18b679cd189cafe	refs/heads/fe8
+cd3c75964899455ceacf494a34f8c35cc854be3b	refs/heads/fix-arg-not-assignable
+8d21fedd94f529a289569f01570ffc9cba9c4199	refs/heads/gh/ailzhang/28/orig
+4fdedda59f918971cec4e1e9a4bd6b49a1ba267b	refs/heads/gh/ailzhang/31/head
+06692b100b02df6275e34701d46ff67ac04db2cc	refs/heads/gh/ailzhang/31/orig
+fcbe8c9c4a5a0c964be2810adec15166143eb57e	refs/heads/gh/ailzhang/32/base
+38b7445b693430b729d2c694d7ea3c4e6347a84a	refs/heads/gh/ailzhang/35/base
+38b7445b693430b729d2c694d7ea3c4e6347a84a	refs/heads/gh/ailzhang/35/head
+2de222fdd547ac33415ff41e4b334a462f8a8002	refs/heads/gh/ailzhang/35/orig
+34aadfcff86f1675433753029e9c8105109e3de2	refs/heads/gh/ailzhang/36/base
+34aadfcff86f1675433753029e9c8105109e3de2	refs/heads/gh/ailzhang/36/head
+ea02d0b10d0382978a004fcd23f689519256f9f6	refs/heads/gh/ailzhang/36/orig
+693db1a6fa3362e2756a2d325116e5acf1fcaf42	refs/heads/gh/ailzhang/37/base
+693db1a6fa3362e2756a2d325116e5acf1fcaf42	refs/heads/gh/ailzhang/37/head
+4db1248db27146566397b8342bf7c92b99a7d46f	refs/heads/gh/ailzhang/37/orig
+693db1a6fa3362e2756a2d325116e5acf1fcaf42	refs/heads/gh/ailzhang/38/base
+42f5133e0860a8cc03fe06e0c36315126cb8efeb	refs/heads/gh/ailzhang/38/head
+5de7736520afdfa9eb81e82be4dd2dd81d33d01c	refs/heads/gh/ailzhang/38/orig
+4277a18bc5c8d3d3125b95e5eace514bd2392513	refs/heads/gh/ailzhang/39/base
+4277a18bc5c8d3d3125b95e5eace514bd2392513	refs/heads/gh/ailzhang/39/head
+b2cc93e4c0ce4c82d059acdc6faa8c3fc600147a	refs/heads/gh/ailzhang/39/orig
+2343a0f04b4651bb1cb96399e1e22702cbd36b2b	refs/heads/gh/ailzhang/40/orig
+1c6f2028ddc81d1bba8ccfe767d2e08262739300	refs/heads/gh/ailzhang/44/base
+1c6f2028ddc81d1bba8ccfe767d2e08262739300	refs/heads/gh/ailzhang/44/head
+f7b5971117393e8f1c96477d436f5a7d1bdd553e	refs/heads/gh/ailzhang/44/orig
+9721204d0e0b89acbcdb636b7efa08cb7eed488e	refs/heads/gh/ailzhang/45/base
+9721204d0e0b89acbcdb636b7efa08cb7eed488e	refs/heads/gh/ailzhang/45/head
+2e926ae45c18c508ec0e321b67613296d73d9c98	refs/heads/gh/ailzhang/45/orig
+9864c959e32365a4ef8a1ed717287ef03055699e	refs/heads/gh/ailzhang/46/base
+9864c959e32365a4ef8a1ed717287ef03055699e	refs/heads/gh/ailzhang/46/head
+f325b216774f49b9df2093471f038278e56b0672	refs/heads/gh/ailzhang/46/orig
+dec4b6196077e57e00c5298084675d41ddc177b8	refs/heads/gh/ailzhang/49/base
+9ae167d5f2a2727884ea4cdddbec7ed91a66dcc0	refs/heads/gh/ailzhang/49/head
+c53c9bf114ad76fce2e207c1ae0738efe2b4a4e4	refs/heads/gh/ailzhang/58/base
+6565322f33451e734680bc25dc97c917beb1838a	refs/heads/gh/ailzhang/58/orig
+feb0552aa5010212866d37eb014c9c73700273b7	refs/heads/gsl-for-real
+49249ce05ccd853f3eb3ff40fc85374f494cde6c	refs/heads/k-ye-patch-1
+6983403b9484a6d9372fe59075e83639e7b23d6e	refs/heads/k-ye-patch-2
+724796ab306daf4c3b98114f5e14e275247f78ea	refs/heads/llvm-10-windows
+def1660243f770b6d5b264ca9d269b57001abe7d	refs/heads/master
+4d77039664ba1bc4caf49f7f43f272c8a337562c	refs/heads/pre-commit-ci-update-config
+016feb385ffcba70aeaabd49a172346efcab4007	refs/heads/rc-v0.8.10
+9d0973e5b2282b3a32cadfff7f6b613318446f86	refs/heads/rc-v0.8.11
+7bae9c77f69e4215e809ee6ddcfeb9f45c724842	refs/heads/rc-v0.8.8
+8a0942baae187a79ed0085fab94bb5734655c8ff	refs/heads/rc-v0.8.9
+0c432a371f954b9d43a60ed6da84e02531b6aee0	refs/heads/rc-v0.9.0
+e2e0e669692f49942929710292c3140292f2df1d	refs/heads/rc-v0.9.1
+7a4d73cd2dfee14f8c3a5aa73d97251ccd6bd8b9	refs/heads/rc-v0.9.2
+6a15da856e412dc69484cb72d43519fef41a5910	refs/heads/rc-v1.0.0
+f4641867ab2059b463e2f2aaf5f52710a16a7e94	refs/heads/refactor
+7056e08514cd5531bafa7ca0fbedb464cd31b0e7	refs/heads/refactor_for_removing_unified_memory
+baaf1b4f1606a71325ed663bba6a7d465944350d	refs/heads/remove-license
+5ab90f03ef37701506c7034c3f1955d225b39957	refs/heads/remove_unified_memory
+4d09d421c70bd3db07fb412c1a65843a6d6079af	refs/heads/revert-1583-comet
+475d73e57777d5cb477df7dd09afdf223648f235	refs/heads/revert-2461-dev
+6d8528cb95a51cdaa277a15441ca467d141dde42	refs/heads/revert-3384-gh/ailzhang/31/head
+d340bdf7e88efd793b48847648e7a518b4ba7731	refs/heads/revert-3703-ghuau/vulkan_aot_loading
+f429a24d7ed0f134275555b31610b3c9920c08f5	refs/heads/riscv
+19b0eb98b0966604435c9f3903a88e49f1d9dba0	refs/heads/rullec-field
+016feb385ffcba70aeaabd49a172346efcab4007	refs/heads/stable
+b2eeb15e4b302bf2d16f4c01750ff00e1aed8bc7	refs/heads/yuanming-hu-patch-1
+5a22a92db32095da61dfd61b10b334e53fd3baad	refs/heads/yuanming-hu-patch-2
+b43c79421c2347cd38675a1005539ef9cbc4cdf6	refs/heads/zl-matrix
+4d8094ea88b826ca75ce1fee2b0da0d5d17074a8	refs/tags/0.3.25
+50e621a42ed5f17bbbe308826acc99e36b3b72d4	refs/tags/0.4.0
+7b7c1d56fb58b360e9a0d6e5bbc9f75e109578f5	refs/tags/0.4.1
+9c8ced3eb1fed7ca10b47368e9316087ce821885	refs/tags/0.4.5
+1044fd3e685b6e2cc1bbf954435a6bad437d29f4	refs/tags/0.5.0
+5876190280921df9ee3b95b698976ccd5231cda6	refs/tags/0.5.10
+568a95be00ac3e8af881ab5416d0eb3677781441	refs/tags/0.5.8
+fe51732c28d33965c9bc07e59f3bed6159938137	refs/tags/0.5.9
+fa68168a70ce4318479345ffad005e2884ff5cb1	refs/tags/0.7.31
+31f09c8d6f116619cd60948a8349142d40d62f1a	refs/tags/v0.5.11
+b9b9e48493797d17f0867c71142aa9ba42073771	refs/tags/v0.5.12
+c4e5b694f12ccddeb9b2827ed852acd9b90f2176	refs/tags/v0.5.13
+9a3bb30bbb06bb38c52d87a4c34541aa5a874281	refs/tags/v0.5.14
+cecb7ca43a52e4b5826d86e991c10dc6117aac2c	refs/tags/v0.5.15
+14094f25004e1052f134885fddd9252e004eb398	refs/tags/v0.6.0
+2fa77350e336491159da0609e5220b7fe6b5572d	refs/tags/v0.6.1
+1402c4e5501984e765cacab566117dd07ede07cc	refs/tags/v0.6.10
+762aca5873e2783194c96674249c1835ca52044d	refs/tags/v0.6.11
+42139736a971cf6dd77294b132ab4ed46fdeb718	refs/tags/v0.6.12
+e8d873574303c4a0d201fd605ca74daf90d9665f	refs/tags/v0.6.13
+c83a7e3df91019d035705ea1068a84f177e97a76	refs/tags/v0.6.14
+ee0281f61278ebd429593391231e432b3c3fd1fc	refs/tags/v0.6.15
+9c415674ff2a892dc3285683c6ad13835d66b146	refs/tags/v0.6.16
+90336faa7f817b3d769abf893b4d940092883a9b	refs/tags/v0.6.17
+3584548252ab173249b8e7f669c32a61bdd089b7	refs/tags/v0.6.18
+9f11a55e2f62c312d07883a57edfc3171273b35d	refs/tags/v0.6.19
+66c0b43d2c9b4554b862501d0dc80c233982efb4	refs/tags/v0.6.2
+cc621a0ced419f7798326bddfc0c41293f74a2a1	refs/tags/v0.6.20
+2da97b177a8a0d5d81613d2734bc5a62351bfbcb	refs/tags/v0.6.21
+f52837757068dea45918054b3c5eced3bf777e1f	refs/tags/v0.6.22
+2bfbca88b2d8cb1a070da9a40c5422c99b23fc2f	refs/tags/v0.6.23
+0dc7ed793d528218c27d4477dbbe04f2795a87c0	refs/tags/v0.6.24
+7fec59d4a924a92010118f37ca05336984a88ba3	refs/tags/v0.6.25
+54791690928e618dc87ac1c378db58fa434c4cc9	refs/tags/v0.6.26
+a34a612806c33c721f9d71272e6763877cb233bd	refs/tags/v0.6.27
+2670350db89a06518054c879024bb8b77bf42483	refs/tags/v0.6.28
+f1bde29bd7ba32712b59426c19b6877cf5e7f0f8	refs/tags/v0.6.29
+471392bcda9ad204337591559355920cfc7736a4	refs/tags/v0.6.3
+6937b1e2dd7188a13d3485fe21bc2d8fd95007e6	refs/tags/v0.6.30
+1d4c083c46e584b3d5d30b05e0cbc3b0e26b0555	refs/tags/v0.6.31
+8864f370d3f1c86e356e158e3c56e76d7ad40613	refs/tags/v0.6.32
+c1df4047395d4eadefb4381f0bc5ef739a1a33b1	refs/tags/v0.6.33
+cbbef94343c4a0df67e9ff183c1c1899cab2c93f	refs/tags/v0.6.34
+17c9fb79aa4d7cdade75880fb0a4e9593d3777a8	refs/tags/v0.6.35
+f2a798d185543c7d35cdb0860c98315286bf6d3f	refs/tags/v0.6.36
+e0ac1d86162fd65a56a4681491ecf43a27c1dda2	refs/tags/v0.6.37
+8b04c039fe827e4700d1f1adfcbf3bff3280435d	refs/tags/v0.6.38
+12e02bec1ce5eda069f5fa98b9b77acad473fbad	refs/tags/v0.6.39
+562e1f1111bb664718fc9ea8dbffcb1cbcf3a72c	refs/tags/v0.6.4
+782318143ec9fc4a04a9a966858b2fe63e83d69f	refs/tags/v0.6.40
+706c5196621ea0588ededfdb374248e03a5394af	refs/tags/v0.6.41
+c3b7ce524dea4a0a5ffc07d91f47c627aebdec83	refs/tags/v0.6.5
+5cab3f284d3e20f68c0d272799e6ea8954806d0b	refs/tags/v0.6.6
+ca4d9dda30dde2c9a2e6b05356b1925333f0884f	refs/tags/v0.6.7
+9f4fd27ca1659d12933c5fdc6d8afbaca13803c9	refs/tags/v0.6.8
+afd6650c8b71297f7be9ba26abadc714be3c49fa	refs/tags/v0.6.9
+0298bca363d7eb51201d53985836d066bb0ffbff	refs/tags/v0.7.0
+fc0f8be7339b9265f1405e31e2a6c0aca16934d5	refs/tags/v0.7.1
+0f0205fc3f280ad5651c2200d45fc3c2768dfbd7	refs/tags/v0.7.10
+26bda350f95554a37828547401a0b96aca7ed316	refs/tags/v0.7.13
+58feee3753a76f276bd25dd00ab13eb311a2e60e	refs/tags/v0.7.14
+cff542ce444ce49ddb1b615a692d3e84076e32d4	refs/tags/v0.7.15
+8d24c2f1a587093fef73dfbd0079a516a3613819	refs/tags/v0.7.16
+489586afd3bc16740044e9250f98c04f1c7e2226	refs/tags/v0.7.17
+9a31814b94acc55cc33923c8b12d7ba74982beb6	refs/tags/v0.7.18
+193568082828f7c020ca59259d240aa37a26d3d3	refs/tags/v0.7.19
+e0a6b9661b40340ed1f5365a1bef93348d394558	refs/tags/v0.7.2
+284f75eddd0e172b17b144e4f60d443f32a5520e	refs/tags/v0.7.20
+15465fb6c642e5fefee0c755e5c9e330f8964305	refs/tags/v0.7.21
+2daa09736105f0a9d2e393315692b0bc2dfd4eb7	refs/tags/v0.7.22
+0b89df867aa9f5e6c733111557f615a760810201	refs/tags/v0.7.23
+25778773055d6b90558ebd06cef96c38ef7415db	refs/tags/v0.7.24
+fb8a0b405bbc53d98e1e16853ff02487b59ff92a	refs/tags/v0.7.25
+e37bdb5e7c688004e6cd34bdcfc14aefdad65cf1	refs/tags/v0.7.26
+9e04b1bc814f8af5d8f6f95c7ea2083caf4b0541	refs/tags/v0.7.28
+7b40a96227da78b9f298242edcc144e6e76e43eb	refs/tags/v0.7.29
+d5a00ceaccfb0e15c4df48edc49e2ff9e25c2dd2	refs/tags/v0.7.3
+cee45665cadd390f5983d189260de9e87db618eb	refs/tags/v0.7.30
+fa68168a70ce4318479345ffad005e2884ff5cb1	refs/tags/v0.7.31
+6652f94ffb80b4833058e0fcef952c90de34025c	refs/tags/v0.7.32
+8d57dcad536597b27537612d8fc4ec1f8381bc67	refs/tags/v0.7.4
+d24c78a06347dd93273bf4876f8739f351a13d55	refs/tags/v0.7.5
+26b4dcd5755aa22b70d5ed24038dc84e5957f9a8	refs/tags/v0.7.6
+683bec648617812ed0ca38d81d8d1c996b943768	refs/tags/v0.7.7
+1ce69651b129d4fdc95180622d9a752cfd466c47	refs/tags/v0.7.8
+181c903923d99fe2ac4005f7d9954c08f3dec175	refs/tags/v0.8.0
+cc2dd3420f239c8811aa58f9dcfb89b9fbdfd8d3	refs/tags/v0.8.1
+016feb385ffcba70aeaabd49a172346efcab4007	refs/tags/v0.8.10
+9d0973e5b2282b3a32cadfff7f6b613318446f86	refs/tags/v0.8.11
+bfa5c28be78ea3e647d7fb62aea434f1378fce03	refs/tags/v0.8.2
+021af5d28f0705ec382925fa81430f2efd8e5f0c	refs/tags/v0.8.3
+895881b5d585539403e779bb6f5d18575d6f46c4	refs/tags/v0.8.4
+45c6ad483ea8bf43cc5626bded7dc72eb31927f0	refs/tags/v0.8.5
+d5f18ffdae7ffe209d8e180d3fe6d2d8eb89e8b7	refs/tags/v0.8.6
+88d81df68620de91453a32039d2d86f6c268c9ef	refs/tags/v0.8.7
+7bae9c77f69e4215e809ee6ddcfeb9f45c724842	refs/tags/v0.8.8
+8a0942baae187a79ed0085fab94bb5734655c8ff	refs/tags/v0.8.9
+0c432a371f954b9d43a60ed6da84e02531b6aee0	refs/tags/v0.9.0
+e2e0e669692f49942929710292c3140292f2df1d	refs/tags/v0.9.1
+53524a7d9352e36ab5b0dcfedc426f4e11caf25f	refs/tags/v0.9.2
+7a4d73cd2dfee14f8c3a5aa73d97251ccd6bd8b9	refs/tags/v0.9.2^{}
+df7e9f43f800dd045de4d8414a460ebcc6288881	refs/tags/v1.0.0
+6a15da856e412dc69484cb72d43519fef41a5910	refs/tags/v1.0.0^{}
+```
+
 https://github.com/procedural/tape
 ```
 0e9d59431b1bd383f3c3a78db39f4c1e2cb17faa	HEAD
@@ -1665,6 +1906,19 @@ d5e22108a0dc48899e44a158f91d5b3215eb7fe6	refs/tags/release_0_9_26^{}
 d348a9a51d32cece842b7885d27a411436d7887b	refs/tags/release_0_9_27
 ```
 
+https://github.com/procedural/tinyx11
+```
+6cfce5e0d8b8654d7402123b03997271fd13f1cc	HEAD
+6cfce5e0d8b8654d7402123b03997271fd13f1cc	refs/heads/master
+6cfce5e0d8b8654d7402123b03997271fd13f1cc	refs/tags/release
+```
+
+https://github.com/procedural/tokamak
+```
+eb36d28ffc3024bf06e8a619c26078dc4c697c88	HEAD
+eb36d28ffc3024bf06e8a619c26078dc4c697c88	refs/heads/master
+```
+
 https://github.com/procedural/twitter
 ```
 d6a927c64c539424c640905e7808304d2251c246	HEAD
@@ -1696,6 +1950,12 @@ https://github.com/procedural/vez
 29d2229e44ee692f74a33b698c80273ebcc67c3e	HEAD
 5b94c85612138f79af646f49538db9e66cbe2f5c	refs/heads/gh-pages
 29d2229e44ee692f74a33b698c80273ebcc67c3e	refs/heads/master
+```
+
+https://github.com/procedural/vk_denoise
+```
+0834b92b49e22b704e7c91348160c4185b8b8c3e	HEAD
+0834b92b49e22b704e7c91348160c4185b8b8c3e	refs/heads/master
 ```
 
 https://github.com/procedural/vk_mini_path_tracer
@@ -2330,8 +2590,8 @@ a3cc91a8b91e2aab2d25c586146a9696bfb1ffdd	refs/heads/master
 
 https://github.com/procedural/wikipedia_2022_russian_invasion_of_ukraine
 ```
-bd3e56fe7e7efcd6ad368c350da82c95b73a90fe	HEAD
-bd3e56fe7e7efcd6ad368c350da82c95b73a90fe	refs/heads/main
+7b93cd1d70e18466cdac33293272875fc079348c	HEAD
+7b93cd1d70e18466cdac33293272875fc079348c	refs/heads/main
 ```
 
 https://github.com/procedural/windows_and_visual_studio_info
