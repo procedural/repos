@@ -176,6 +176,12 @@ e997a1e5dbdae9d8a70a0d9b259e10129e71ffd8	refs/tags/armory3d
 e997a1e5dbdae9d8a70a0d9b259e10129e71ffd8	refs/tags/textools-1.3
 ```
 
+https://github.com/procedural/blender_font_mesh_generator
+```
+db11658b9c20fe5f53b04f98a6d909dd21c75fa3	HEAD
+db11658b9c20fe5f53b04f98a6d909dd21c75fa3	refs/heads/main
+```
+
 https://github.com/procedural/blender_ubuntu_18_04
 ```
 7e4062ec7879d918c4a5a19a521ceb5bd740be3e	HEAD
@@ -185,8 +191,8 @@ e4a2dc46e26eeb2ad22a92e073d88904e0e6a21c	refs/tags/blender-v2.93-release-03d5c8b
 
 https://github.com/procedural/c
 ```
-08032234c2966284879892f295d2bdb850f3fc31	HEAD
-08032234c2966284879892f295d2bdb850f3fc31	refs/heads/master
+c19a31f0ab66b11af64b0945d8003ba65b182780	HEAD
+c19a31f0ab66b11af64b0945d8003ba65b182780	refs/heads/master
 4875eb4e700a2499a15fb3f83c9da2c4ebf67eb4	refs/tags/misc
 ```
 
@@ -258,6 +264,12 @@ https://github.com/procedural/cpp_count_string_char
 ```
 02c4c21c4c05e85c69bc191a042970f55570590e	HEAD
 02c4c21c4c05e85c69bc191a042970f55570590e	refs/heads/master
+```
+
+https://github.com/procedural/cpp_headergen
+```
+3217305be14f4ef0af672b39be79ce8d3ff44450	HEAD
+3217305be14f4ef0af672b39be79ce8d3ff44450	refs/heads/main
 ```
 
 https://github.com/procedural/cpp_pfm_rgb_ldr_to_ppm
@@ -454,6 +466,7 @@ https://github.com/procedural/Declaration_for_the_Future_of_the_Internet
 ```
 576b0e72275a4bdd4abb53f011535a1f1c601cda	HEAD
 576b0e72275a4bdd4abb53f011535a1f1c601cda	refs/heads/main
+576b0e72275a4bdd4abb53f011535a1f1c601cda	refs/tags/28_Apr_2022
 ```
 
 https://github.com/procedural/device_telemetry_api_in_a_nutshell
@@ -506,6 +519,12 @@ https://github.com/procedural/empty.o
 6a3f98c4a5302095fdf5c24358fc3f2da56d5daa	refs/heads/master
 ```
 
+https://github.com/procedural/emscripten_opengl_rotating_galaxy
+```
+10f5333bdad0fc7c3862a8bc19f4067c2e742070	HEAD
+10f5333bdad0fc7c3862a8bc19f4067c2e742070	refs/heads/main
+```
+
 https://github.com/procedural/epic_vs_apple_google
 ```
 25a0642af4f09b13e9dd9ee057e5377a63e7bfe6	HEAD
@@ -535,6 +554,18 @@ https://github.com/procedural/framework_shadow_map
 ```
 8735eb648d9fb8f13e5d5bd06b41db22e866e5ca	HEAD
 8735eb648d9fb8f13e5d5bd06b41db22e866e5ca	refs/heads/master
+```
+
+https://github.com/procedural/FWK_02_May_2022
+```
+290c55aca84a3f4a0f76e7bfa7b414dbd9b1cb02	HEAD
+290c55aca84a3f4a0f76e7bfa7b414dbd9b1cb02	refs/heads/master
+```
+
+https://github.com/procedural/FWK_02_May_2022_emsdk
+```
+d8a1f6c637a9f5dfb215563bda1a7877cfcbe919	HEAD
+d8a1f6c637a9f5dfb215563bda1a7877cfcbe919	refs/heads/main
 ```
 
 https://github.com/procedural/FWK_04_Oct_2021
@@ -585,10 +616,34 @@ https://github.com/procedural/FWK_27_Aug_2021
 23d33a547c213c06dc9d771b4f7d157d5be31c4f	refs/heads/master
 ```
 
+https://github.com/procedural/fwk_test
+```
+38a5f60c394840e3155eaa6a13b96a760cf026b9	HEAD
+38a5f60c394840e3155eaa6a13b96a760cf026b9	refs/heads/master
+```
+
+https://github.com/procedural/fwk_test_fullscreen_04_May_2022
+```
+9029acd83b765780af6321ffc00deb9098308e2e	HEAD
+9029acd83b765780af6321ffc00deb9098308e2e	refs/heads/master
+```
+
+https://github.com/procedural/fwk_test_gamepad
+```
+00f133b8400e81abaec8653d04a2042c9579043c	HEAD
+00f133b8400e81abaec8653d04a2042c9579043c	refs/heads/master
+```
+
+https://github.com/procedural/fwk_test_touch_camera_04_May_2022
+```
+edf9996147b8050ce3ada2b3f41cbb2dc48c45f7	HEAD
+edf9996147b8050ce3ada2b3f41cbb2dc48c45f7	refs/heads/master
+```
+
 https://github.com/procedural/gamescript
 ```
-0e9136eab02b865da07d4d813275519f97114883	HEAD
-0e9136eab02b865da07d4d813275519f97114883	refs/heads/main
+8a9e105bc908455fed75052689930ffd2b70e2cc	HEAD
+8a9e105bc908455fed75052689930ffd2b70e2cc	refs/heads/main
 0e9136eab02b865da07d4d813275519f97114883	refs/tags/27_Feb_2022
 ```
 
@@ -601,8 +656,8 @@ https://github.com/procedural/gamescriptx
 
 https://github.com/procedural/gamescript_c
 ```
-dec86319bb1be7f0119725b61634d62516dc03ae	HEAD
-dec86319bb1be7f0119725b61634d62516dc03ae	refs/heads/main
+892f6651fdf084656782451796834f4c13404eba	HEAD
+892f6651fdf084656782451796834f4c13404eba	refs/heads/main
 dec86319bb1be7f0119725b61634d62516dc03ae	refs/tags/27_Feb_2022
 ```
 
@@ -622,6 +677,12 @@ https://github.com/procedural/gamescript_fbx_examples
 ```
 069dbd796ffd1a4be26f383ec2ce144756ac6005	HEAD
 069dbd796ffd1a4be26f383ec2ce144756ac6005	refs/heads/main
+```
+
+https://github.com/procedural/gamescript_for_android_examples
+```
+ed99a55efc4da28dc2fddc1e29d8baca9d3d7174	HEAD
+ed99a55efc4da28dc2fddc1e29d8baca9d3d7174	refs/heads/main
 ```
 
 https://github.com/procedural/gamescript_min
@@ -1155,6 +1216,20 @@ https://github.com/procedural/minscript
 360acd29781af324f3a611019dd4d30ec123a74e	refs/heads/master
 ```
 
+https://github.com/procedural/mujoco_physics
+```
+70b19d5fd6ddd037a15196474945811a8016aa26	HEAD
+70b19d5fd6ddd037a15196474945811a8016aa26	refs/heads/main
+1f7eaae62e0cd45a71cf7a593fa5605720765167	refs/tags/2.1.0
+a499b3812039dfbc6bc0d4cb86ce888280809abd	refs/tags/2.1.1
+3577e2cf8bf841475b489aefff52276a39f24d51	refs/tags/2.1.2
+b7b7af06d9700b324b0eaaa934e56a0db4e01c00	refs/tags/2.1.2.post1
+df048e54c080d82b0df1d799e5e1debfd32c387a	refs/tags/2.1.3
+90dea1bdfb7053b05acfd6ff7687924ce31ed16a	refs/tags/2.1.4
+87539dbd24825249f6215fb43050d4dd2c9a8fc2	refs/tags/2.1.5
+b2ae1e5e230fc1d2b0f455e61628fe6d2718def2	refs/tags/2.2.0
+```
+
 https://github.com/procedural/notepadpp_theme_vs2019_dark
 ```
 a7d4c7ff44bfcbf9b9ca661145ccf1cf47fd63b4	HEAD
@@ -1485,8 +1560,8 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-aaaecbd2cb7b29f933723bd4ccd91cdf7b2c2d9e	HEAD
-aaaecbd2cb7b29f933723bd4ccd91cdf7b2c2d9e	refs/heads/master
+fc02365516a931fcb96e7c0fc964c6496364a402	HEAD
+fc02365516a931fcb96e7c0fc964c6496364a402	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -1547,7 +1622,7 @@ c27cf9bf77e064161ea157caf41d96d1f89c56c3	refs/tags/v0.9.0
 
 https://github.com/procedural/sokol
 ```
-e8931e4399a0eb4bf026120d7bdb89825815af9e	HEAD
+9a6237fcdf213e6da48e4f9201f144bcb2dcb46f	HEAD
 f7490ca42e116eda199d9e62c1e9f570d53ee277	refs/heads/Aftnet-uwpaudio
 3e67875d15e6fa2502d628bca30fefc6a801e387	refs/heads/bindgen
 0af17fb7cdac7ff64a82abf97d9951aed54147dd	refs/heads/bindgen-friendly
@@ -1560,7 +1635,7 @@ f7490ca42e116eda199d9e62c1e9f570d53ee277	refs/heads/Aftnet-uwpaudio
 e1a3cd6fa5b7d6f6dee6f9d958e1d432e05d6a8a	refs/heads/gl-loader
 75b4dda2c0c2158b1f23e891a59ce55157423fdc	refs/heads/html5-dragdrop
 c83eca047c951210a03f114eb6c0cd5ab5927ad3	refs/heads/instancing-596
-e8931e4399a0eb4bf026120d7bdb89825815af9e	refs/heads/master
+9a6237fcdf213e6da48e4f9201f144bcb2dcb46f	refs/heads/master
 67a90a95dc37c9d1b637e8f7e9ec5beb4ffda5c6	refs/heads/nyalloc-spritebatch
 7e0761ba7f25bdea3dd9c278802a0250dc1cd5da	refs/heads/oviano-sokol-audio-avaudiosession
 e7005b2736ce124fec69c5c5c9c8fee50757028e	refs/heads/prime31-file-drop
@@ -1634,6 +1709,34 @@ a718d5033ce35af80110ba81057d9294983b153a	refs/heads/wmerrifield-nuklear-sapp
 89f5825ab5d36906b2dc219efbce3d00be9e7cdf	refs/tags/pre-feb2021-api-changes
 3c4b3155bbe5cfd916f177cf5f7a379b506b1bf0	refs/tags/pre-webgpu
 31f09afcbb0ebcff75b19a31ba63e68eb5cba42c	refs/tags/pre-webgpu^{}
+```
+
+https://github.com/procedural/soloud
+```
+1157475881da0d7f76102578255b937c7d4e8f57	HEAD
+1157475881da0d7f76102578255b937c7d4e8f57	refs/heads/master
+b223b75ead9123fad778674f1848a9116f6a856a	refs/tags/RELEASE_20130808
+57fc213e11dffbefb91c4810e95e774a0a35f78b	refs/tags/RELEASE_20130808^{}
+d13ea0f570dd05e77928fbf7c47fc7140640605e	refs/tags/RELEASE_20131109
+f361bf5333ede1f585fb220183a792d4d96bcc8d	refs/tags/RELEASE_20131109^{}
+a2eff650ce80b9c1af5dd8286dbc1760dbf04a5e	refs/tags/RELEASE_20140521
+5ccf43346f2af4fa46e2e3fde89fa2a6f51633f1	refs/tags/RELEASE_20140521^{}
+3d77f05d3dc40ec59b0fb2d395e0bf546f7acfe1	refs/tags/RELEASE_20140622
+fb473495242fb2d53e4cbb100372e3578cd0ef9d	refs/tags/RELEASE_20140622^{}
+f43eb1a6d297ab67ae8ce9339ef577e9f26ecd23	refs/tags/RELEASE_20140821
+1a550540ae4f1faf330327602daa267117ecaba9	refs/tags/RELEASE_20140821^{}
+57d3921377d0f11180634a45410ab120a4ca86e0	refs/tags/RELEASE_20150419
+b810619f0d345b6f4ee2e740a57e5037f098e853	refs/tags/RELEASE_20150419^{}
+090fa650f0570da57b1f7318831b5b9bf4dd0956	refs/tags/RELEASE_20150427
+2a21bfb93507fae821ff5bbdc70368c67e4101d6	refs/tags/RELEASE_20150427^{}
+443976df688afd7e6ebd46213d53a605fcfaa23f	refs/tags/RELEASE_20150512
+87134b73fdc87686e646c8e790d3fde5ca82718b	refs/tags/RELEASE_20150512^{}
+64dd662064a6b89d584bae34e513f8a243278e75	refs/tags/RELEASE_20181119
+7aa5f3626c84794317b0c7203301e4de31f59945	refs/tags/RELEASE_20181119^{}
+913d205f31cdf9770cdc5b04739162162b429933	refs/tags/RELEASE_20200207
+c8e339fdce5c7107bdb3e64bbf707c8fd3449beb	refs/tags/RELEASE_20200207^{}
+ba1ded5e2710dd191fbb2dda7089b7b104d82c4d	refs/tags/version_1_0
+b23479a09492e9d62ffc900ef748e6c4398b4511	refs/tags/version_1_0^{}
 ```
 
 https://github.com/procedural/spdlog_binaries_ubuntu_16_04
