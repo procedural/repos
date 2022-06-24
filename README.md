@@ -122,6 +122,12 @@ https://github.com/procedural/android
 893e944c7e4a3969ff106ed44dda23a223efa1d2	refs/heads/master
 ```
 
+https://github.com/procedural/anki
+```
+020fa0ef5d56e791dab85866a4fe1b23fbced678	HEAD
+020fa0ef5d56e791dab85866a4fe1b23fbced678	refs/heads/master
+```
+
 https://github.com/procedural/archive
 ```
 5e9d3d344e3501dea34ce441af32f695a9ac62ec	HEAD
@@ -187,6 +193,12 @@ https://github.com/procedural/blender_ubuntu_18_04
 7e4062ec7879d918c4a5a19a521ceb5bd740be3e	HEAD
 7e4062ec7879d918c4a5a19a521ceb5bd740be3e	refs/heads/main
 e4a2dc46e26eeb2ad22a92e073d88904e0e6a21c	refs/tags/blender-v2.93-release-03d5c8b
+```
+
+https://github.com/procedural/bvh_article
+```
+c127c63ae84df58ec6931fc6a829921c711f9826	HEAD
+c127c63ae84df58ec6931fc6a829921c711f9826	refs/heads/main
 ```
 
 https://github.com/procedural/c
@@ -462,7 +474,7 @@ a535a6b454e8e8e34502c21b75bb4782af65e591	HEAD
 a535a6b454e8e8e34502c21b75bb4782af65e591	refs/heads/master
 ```
 
-https://github.com/procedural/Declaration_for_the_Future_of_the_Internet
+https://github.com/procedural/DECLARATION_FOR_THE_FUTURE_OF_THE_INTERNET
 ```
 576b0e72275a4bdd4abb53f011535a1f1c601cda	HEAD
 576b0e72275a4bdd4abb53f011535a1f1c601cda	refs/heads/main
@@ -484,6 +496,13 @@ https://github.com/procedural/devzat
 90b31356c11a5242cc55117f184877bce61a633c	refs/tags/16_Mar_2022
 28dd94b963f629b49fca2991157399d789a25935	refs/tags/v0.1.5
 fa5ae61ef9bf17e0345bab2fd3cc0745d63cfa8c	refs/tags/v0.1.5^{}
+```
+
+https://github.com/procedural/DirectStorage
+```
+5cf678003ff12e3386ab817f6e149c8cfc468cf9	HEAD
+b969bb16d9a7310fd5dcb8431524ad5b1845fd7d	refs/heads/dstorage_1.0.2
+5cf678003ff12e3386ab817f6e149c8cfc468cf9	refs/heads/main
 ```
 
 https://github.com/procedural/directx_headers
@@ -529,6 +548,25 @@ https://github.com/procedural/epic_vs_apple_google
 ```
 25a0642af4f09b13e9dd9ee057e5377a63e7bfe6	HEAD
 25a0642af4f09b13e9dd9ee057e5377a63e7bfe6	refs/heads/master
+```
+
+https://github.com/procedural/etcpak
+```
+a77d5a37ddf48034cee8aeb9e8792a623c265b4c	HEAD
+da85020e690890f4356d42ab5802e4f957f220fd	refs/heads/QuickETC2
+a77d5a37ddf48034cee8aeb9e8792a623c265b4c	refs/heads/master
+bef17a17cc0e68f83ba8421390af01344fa16a9d	refs/tags/0.2
+b89c862a16fe13e85beb75d0eeff305c44dab83d	refs/tags/0.2.1
+bc8ee9d9b83230caf0db44d80c62ad3eb05089b9	refs/tags/0.2.2
+a830b2beeabeb731dfd13a6bcab0bab4e9bb9e95	refs/tags/0.3
+c12cadd0076506f628f85bf8e0846163ca4c823b	refs/tags/0.4
+f6137832e7f3fc70e966978048713d00f9e06e96	refs/tags/0.5
+449cd4de7edbd6cdf9fd5ca19de1873b8546b27c	refs/tags/0.6
+3478dc1a87cc716f22a99f6a79e83ca884302eda	refs/tags/0.6.1
+407de86e056a36c54a3b55d71a3c5d83e8b51192	refs/tags/0.6.2
+6305db773e1073f36694281a9c338e6987558580	refs/tags/0.7
+a77d5a37ddf48034cee8aeb9e8792a623c265b4c	refs/tags/1.0
+3daa2a29eca5c9f2967cedee919c276edea3f14d	refs/tags/v0.1
 ```
 
 https://github.com/procedural/fluidsim
@@ -642,8 +680,8 @@ edf9996147b8050ce3ada2b3f41cbb2dc48c45f7	refs/heads/master
 
 https://github.com/procedural/gamescript
 ```
-8a9e105bc908455fed75052689930ffd2b70e2cc	HEAD
-8a9e105bc908455fed75052689930ffd2b70e2cc	refs/heads/main
+384cbb506f1c12fe50181c88a742a71ffa8d1cee	HEAD
+384cbb506f1c12fe50181c88a742a71ffa8d1cee	refs/heads/main
 0e9136eab02b865da07d4d813275519f97114883	refs/tags/27_Feb_2022
 ```
 
@@ -669,8 +707,9 @@ https://github.com/procedural/gamescript_c_header
 
 https://github.com/procedural/gamescript_experiments
 ```
-31f25ad5ed77f015a9d4a8aa913ab8cf966ad646	HEAD
-31f25ad5ed77f015a9d4a8aa913ab8cf966ad646	refs/heads/main
+8c958735f53584b8c43e0f5d79f213dcba75efd8	HEAD
+8c958735f53584b8c43e0f5d79f213dcba75efd8	refs/heads/main
+a76d08ca5bfe34d4d6f364e23bcd14e0633da9b6	refs/tags/icon
 ```
 
 https://github.com/procedural/gamescript_fbx_examples
@@ -681,8 +720,8 @@ https://github.com/procedural/gamescript_fbx_examples
 
 https://github.com/procedural/gamescript_for_android_examples
 ```
-ed99a55efc4da28dc2fddc1e29d8baca9d3d7174	HEAD
-ed99a55efc4da28dc2fddc1e29d8baca9d3d7174	refs/heads/main
+44af0a5921198ace6b790352f4e56523c3fa9cc5	HEAD
+44af0a5921198ace6b790352f4e56523c3fa9cc5	refs/heads/main
 ```
 
 https://github.com/procedural/gamescript_min
@@ -695,13 +734,12 @@ https://github.com/procedural/gamescript_native_clang_for_windows
 ```
 3bcd93e71ae676a18d2a4fc23136fc585d09fa5c	HEAD
 3bcd93e71ae676a18d2a4fc23136fc585d09fa5c	refs/heads/main
-d83d5dd4c9e9349e4c2f76f3a9559e6492edc1df	refs/tags/v1.0
 ```
 
 https://github.com/procedural/gamescript_native_swift
 ```
-81a4d40e6c9bc1bfd4f793efe7d55b95b99a0abe	HEAD
-81a4d40e6c9bc1bfd4f793efe7d55b95b99a0abe	refs/heads/master
+ccfcc33e30306a836da66a1df17204385db39a79	HEAD
+ccfcc33e30306a836da66a1df17204385db39a79	refs/heads/master
 81a4d40e6c9bc1bfd4f793efe7d55b95b99a0abe	refs/tags/27_Feb_2022
 ```
 
@@ -709,6 +747,12 @@ https://github.com/procedural/gamescript_raytracing
 ```
 f7f0f6f2be6736996417cbf8f04469994ad64560	HEAD
 f7f0f6f2be6736996417cbf8f04469994ad64560	refs/heads/master
+```
+
+https://github.com/procedural/gamescript_structs_generator
+```
+a01ab1471832214b9c90355d0d8c50427a660d41	HEAD
+a01ab1471832214b9c90355d0d8c50427a660d41	refs/heads/master
 ```
 
 https://github.com/procedural/gi
@@ -833,8 +877,8 @@ a818714c8c680d334c2d16bcd85f2fe5e19e5d4d	refs/heads/master
 
 https://github.com/procedural/hardware
 ```
-58d6e3eb5371076ef55db885a701e5ce1efbf9d4	HEAD
-58d6e3eb5371076ef55db885a701e5ce1efbf9d4	refs/heads/main
+6312dfed2dad24d83dad80f97a9c2bdd7f4ea105	HEAD
+6312dfed2dad24d83dad80f97a9c2bdd7f4ea105	refs/heads/main
 ```
 
 https://github.com/procedural/have_you_tried
@@ -956,6 +1000,21 @@ https://github.com/procedural/js_webgpu_hello_triangle
 ```
 ec973587e5bca632f77075a84480b5e89962e9fc	HEAD
 ec973587e5bca632f77075a84480b5e89962e9fc	refs/heads/main
+```
+
+https://github.com/procedural/kajiya
+```
+66875dc96180d5c7a700fc3054dd685c12fc962c	HEAD
+6c3125aa8b4875545e2240972363de02375ab553	refs/heads/dof
+cc53b323ba766030a93336730d54b98db87f310e	refs/heads/egui-fixes
+66875dc96180d5c7a700fc3054dd685c12fc962c	refs/heads/main
+98c4f8000bbd2eec97ed02ea51c87a0bf9a9e3f8	refs/heads/restir-meets-probes
+155419393d86e7ba1daf2f2eb3c6f2aaa12534ac	refs/heads/restir-meets-surfel
+b4b88d4153929052540d5a7b20be810f9fb65bb7	refs/heads/rust-raster-shaders
+34653257195c0a185483dde1d5b7402fb812bbd6	refs/heads/rust-raster-shaders2
+9744a478c16f41980a4fdcad8cd5c4d1848db901	refs/heads/rust-sky-shaders
+377015127b62321dd22cadca9f16cfac9dc5109f	refs/heads/rust-ssgi-perf
+08d34be8a6887eaec570895d3c7e491c4fb12eea	refs/heads/taa-rewrite2
 ```
 
 https://github.com/procedural/kate_themes
@@ -1131,8 +1190,8 @@ https://github.com/procedural/linux_amd_driver_install
 
 https://github.com/procedural/linux_nvidia_driver_install
 ```
-85cdd955dc087b37e0a1db33e8ea2a17ded911d7	HEAD
-85cdd955dc087b37e0a1db33e8ea2a17ded911d7	refs/heads/master
+f1660da8ff9a433b6a64e8f7e888435c5125ad4e	HEAD
+f1660da8ff9a433b6a64e8f7e888435c5125ad4e	refs/heads/master
 ```
 
 https://github.com/procedural/linux_shared_library_catastrophe
@@ -1152,6 +1211,22 @@ https://github.com/procedural/llvm_13_binaries_ubuntu_16_04
 e3867edbcc3fb64760b7c4ea77178dc245ff0695	HEAD
 e3867edbcc3fb64760b7c4ea77178dc245ff0695	refs/heads/release/13.x
 e3867edbcc3fb64760b7c4ea77178dc245ff0695	refs/tags/06_Oct_2021
+```
+
+https://github.com/procedural/LMN-3-DAW
+```
+258477d13f591a19cc3321414d3f8da7b8a81714	HEAD
+258477d13f591a19cc3321414d3f8da7b8a81714	refs/heads/main
+c4f983afc6d5b5d27aa733e7516d4b0a4f065d7f	refs/tags/v0.1.0
+440876d5aa8ac71146876bfb29d7f3dd99646376	refs/tags/v0.1.0^{}
+```
+
+https://github.com/procedural/LMN-3-Emulator
+```
+739a318b8a1daa4b62dce543edba81fde09903d0	HEAD
+739a318b8a1daa4b62dce543edba81fde09903d0	refs/heads/main
+958914ab00c075313a0aa4f21c11afc8b59933fb	refs/tags/v0.1.0
+0b66141b6a13bd201919f4424231ba71c4090908	refs/tags/v0.1.0^{}
 ```
 
 https://github.com/procedural/magicacsg_copy_layers_program
@@ -1208,6 +1283,12 @@ https://github.com/procedural/metal-cpp
 ```
 e3f90f6f048feb9cfd5ce2aa9d53e362c9bda7c9	HEAD
 e3f90f6f048feb9cfd5ce2aa9d53e362c9bda7c9	refs/heads/master
+```
+
+https://github.com/procedural/metal_3_example
+```
+40bf39cc23b048630d0b023077730cb7a2fbd24e	HEAD
+40bf39cc23b048630d0b023077730cb7a2fbd24e	refs/heads/main
 ```
 
 https://github.com/procedural/minscript
@@ -1560,8 +1641,14 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-fc02365516a931fcb96e7c0fc964c6496364a402	HEAD
-fc02365516a931fcb96e7c0fc964c6496364a402	refs/heads/master
+2dfc43e88c65205e9423c75021c45e3f4c419206	HEAD
+2dfc43e88c65205e9423c75021c45e3f4c419206	refs/heads/master
+```
+
+https://github.com/procedural/restir
+```
+a3241e98a99e1f0c7edafc5008522d2bd173bfed	HEAD
+a3241e98a99e1f0c7edafc5008522d2bd173bfed	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -2071,6 +2158,26 @@ https://github.com/procedural/vk_raytracing_tutorial_KHR
 ```
 596b641a5687307ee9f58193472e8b620ce84189	HEAD
 596b641a5687307ee9f58193472e8b620ce84189	refs/heads/master
+```
+
+https://github.com/procedural/voice
+```
+555024c76503a8e52d68f829f3bb5352553c2fd7	HEAD
+7fb54c655b7e19ad51e3b530387d4b0da1dc8ec4	refs/heads/Islanna-patch-1
+c97af2afb1970060b31e181b6e750f0c1974b9ce	refs/heads/Islanna-patch-2
+58afd3ae6386ad1028d8188318373b7214a42505	refs/heads/adamnsandle
+e7d97dc55867d11eff0728c20b7eec46befdf339	refs/heads/adamnsandle-patch-1
+1bd1f7a0f07f00875bbc00e3eae861510e5fdd43	refs/heads/add-code-of-conduct-1
+f9c03e460d413f3adcae299b2c2fce2937eac5f6	refs/heads/evrrn
+555024c76503a8e52d68f829f3bb5352553c2fd7	refs/heads/master
+967a75b3d44f582be5555b03ec7a9471f37a2615	refs/heads/tts
+e6980004af4b9859f34f2498e791e2ed7f7b1408	refs/heads/tts_v3
+1e27c489ac4f4938278fffaff657328f1a05f19b	refs/tags/v0.1
+da053c9de3f03fe393248f07e2306c5bbb003c25	refs/tags/v0.2
+b59cb8a4a2edb97c2250ef6eb3a02164084ff555	refs/tags/v0.3
+2b02d83227690120c92e268ce2378081a2717e21	refs/tags/v0.4
+555024c76503a8e52d68f829f3bb5352553c2fd7	refs/tags/v0.4.1
+c232d2db99d4f3cd36ea067ea476db21d1c984d8	refs/tags/v1
 ```
 
 https://github.com/procedural/voxel_cone_tracing
