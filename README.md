@@ -160,6 +160,12 @@ cd1c4bd9e48afe812a0e996d335298c455afcd92	refs/tags/v1.3
 3bb9240cb15459768adb3e7d963a20e1523a6294	refs/tags/v1.6
 ```
 
+https://github.com/procedural/bf_cpu
+```
+0fb98610b1e400adcb3cd8f0bfb65d3b14c6b89d	HEAD
+0fb98610b1e400adcb3cd8f0bfb65d3b14c6b89d	refs/heads/master
+```
+
 https://github.com/procedural/blender
 ```
 66102c2ff9277a6a4a5a300d5b8c2795d107e2e1	HEAD
@@ -680,15 +686,19 @@ edf9996147b8050ce3ada2b3f41cbb2dc48c45f7	refs/heads/master
 
 https://github.com/procedural/gamescript
 ```
-384cbb506f1c12fe50181c88a742a71ffa8d1cee	HEAD
-384cbb506f1c12fe50181c88a742a71ffa8d1cee	refs/heads/main
+dcf2d064044369c952a66efed3cd970daa1996cc	HEAD
+dcf2d064044369c952a66efed3cd970daa1996cc	refs/heads/main
+509443d52da0bcee0c18028a855096f45f021e7e	refs/tags/18_Jul_2022
+39cfaf72d344e8c19eb22457e6fc4e6f994c861c	refs/tags/19_Jul_2022
+75639c39abee98c0b930fc932f404b73abe3088f	refs/tags/20_Jul_2022
+dcf2d064044369c952a66efed3cd970daa1996cc	refs/tags/21_Jul_2022
 0e9136eab02b865da07d4d813275519f97114883	refs/tags/27_Feb_2022
 ```
 
 https://github.com/procedural/gamescriptx
 ```
-3a9e4a3284b3f4f00712292f926cbe0f120928a6	HEAD
-3a9e4a3284b3f4f00712292f926cbe0f120928a6	refs/heads/main
+48a5cf30b32e022043c156efc69df45eadaa6afc	HEAD
+48a5cf30b32e022043c156efc69df45eadaa6afc	refs/heads/main
 3a9e4a3284b3f4f00712292f926cbe0f120928a6	refs/tags/05_Apr_2022
 ```
 
@@ -707,8 +717,8 @@ https://github.com/procedural/gamescript_c_header
 
 https://github.com/procedural/gamescript_experiments
 ```
-8c958735f53584b8c43e0f5d79f213dcba75efd8	HEAD
-8c958735f53584b8c43e0f5d79f213dcba75efd8	refs/heads/main
+105055ee3ad4648925ebbb1e336da6cf49efac9c	HEAD
+105055ee3ad4648925ebbb1e336da6cf49efac9c	refs/heads/main
 a76d08ca5bfe34d4d6f364e23bcd14e0633da9b6	refs/tags/icon
 ```
 
@@ -722,6 +732,12 @@ https://github.com/procedural/gamescript_for_android_examples
 ```
 44af0a5921198ace6b790352f4e56523c3fa9cc5	HEAD
 44af0a5921198ace6b790352f4e56523c3fa9cc5	refs/heads/main
+```
+
+https://github.com/procedural/gamescript_microsoft_store
+```
+4d2570737270d501039519709d6e9e0cf36de999	HEAD
+4d2570737270d501039519709d6e9e0cf36de999	refs/heads/main
 ```
 
 https://github.com/procedural/gamescript_min
@@ -751,8 +767,8 @@ f7f0f6f2be6736996417cbf8f04469994ad64560	refs/heads/master
 
 https://github.com/procedural/gamescript_structs_generator
 ```
-a01ab1471832214b9c90355d0d8c50427a660d41	HEAD
-a01ab1471832214b9c90355d0d8c50427a660d41	refs/heads/master
+85f51d45502ec5fd14181142d649f62fbeccf180	HEAD
+85f51d45502ec5fd14181142d649f62fbeccf180	refs/heads/master
 ```
 
 https://github.com/procedural/gi
@@ -877,8 +893,8 @@ a818714c8c680d334c2d16bcd85f2fe5e19e5d4d	refs/heads/master
 
 https://github.com/procedural/hardware
 ```
-6312dfed2dad24d83dad80f97a9c2bdd7f4ea105	HEAD
-6312dfed2dad24d83dad80f97a9c2bdd7f4ea105	refs/heads/main
+d76c5edfa4afd49fe7d713e4474cb5e602daec16	HEAD
+d76c5edfa4afd49fe7d713e4474cb5e602daec16	refs/heads/main
 ```
 
 https://github.com/procedural/have_you_tried
@@ -897,6 +913,12 @@ https://github.com/procedural/hello_world
 ```
 98a222b6cabcd0f3457027fcf735cd8da050df16	HEAD
 98a222b6cabcd0f3457027fcf735cd8da050df16	refs/heads/master
+```
+
+https://github.com/procedural/hlsl_explorer
+```
+a461b4bc2b3e70736c82b18fb70f7218d4eb7de5	HEAD
+a461b4bc2b3e70736c82b18fb70f7218d4eb7de5	refs/heads/master
 ```
 
 https://github.com/procedural/hsa
@@ -1188,6 +1210,17 @@ https://github.com/procedural/linux_amd_driver_install
 8f179594ff87d5b9d94299cb3f4433760e353ac5	refs/heads/main
 ```
 
+https://github.com/procedural/linux_distros
+```
+2e6385efbdc550ebdc570ddb17c6eda64db8032d	HEAD
+2e6385efbdc550ebdc570ddb17c6eda64db8032d	refs/heads/master
+2e6385efbdc550ebdc570ddb17c6eda64db8032d	refs/tags/28_Jan_2021
+2e6385efbdc550ebdc570ddb17c6eda64db8032d	refs/tags/linux_mint_mate_18_7_Feb_2021
+519c92e08ed26d843b179493529819e1d4d0bebc	refs/tags/slitaz_4_Feb_2018
+519c92e08ed26d843b179493529819e1d4d0bebc	refs/tags/slitaz_5_Feb_2018
+2e6385efbdc550ebdc570ddb17c6eda64db8032d	refs/tags/slitaz_7_Feb_2018
+```
+
 https://github.com/procedural/linux_nvidia_driver_install
 ```
 f1660da8ff9a433b6a64e8f7e888435c5125ad4e	HEAD
@@ -1277,12 +1310,6 @@ dbd76edfc08f74f624aeb96589f4f9acb5671caf	refs/heads/allen_arena_attempt
 0eee7e5a6cc23fc786ac3dd14809807f397334ff	refs/tags/v0.1-beta^{}
 52d717c2b98b57fa128700a58c2e9b4cc8c06a1a	refs/tags/v0.2-beta
 b07e706dfbe5e3c6331ed5c0957efcdce6369c57	refs/tags/v1.0
-```
-
-https://github.com/procedural/metal-cpp
-```
-e3f90f6f048feb9cfd5ce2aa9d53e362c9bda7c9	HEAD
-e3f90f6f048feb9cfd5ce2aa9d53e362c9bda7c9	refs/heads/master
 ```
 
 https://github.com/procedural/metal_3_example
@@ -1427,11 +1454,24 @@ e0e7ef5afb2f6cbc12e8b7f8bc8c3381a035a23e	HEAD
 e0e7ef5afb2f6cbc12e8b7f8bc8c3381a035a23e	refs/heads/main
 ```
 
+https://github.com/procedural/opengl_debugger
+```
+434dcc52b768b4aa32b6ea64e68182daaacb23fc	HEAD
+434dcc52b768b4aa32b6ea64e68182daaacb23fc	refs/heads/master
+434dcc52b768b4aa32b6ea64e68182daaacb23fc	refs/tags/installing_windows
+```
+
 https://github.com/procedural/pigment-mixing
 ```
 faad65307b43a0cfb2bfbc3e61de36daf124f0dd	HEAD
 faad65307b43a0cfb2bfbc3e61de36daf124f0dd	refs/heads/master
 5775c6fa68dbd6db0a724b420ded89fd03a2b5e2	refs/tags/v1.2
+```
+
+https://github.com/procedural/pix_on_windows_captures_wpix
+```
+e4bd9575a67679bec0f26d4309efaf1520d96a52	HEAD
+e4bd9575a67679bec0f26d4309efaf1520d96a52	refs/heads/main
 ```
 
 https://github.com/procedural/pl0
@@ -1464,6 +1504,12 @@ fc666159b758081fb1f58dbf90b6aa0af3a8268b	refs/tags/0.92
 6f7940208f07a9b695733d426613886c9df4e207	refs/tags/0.93^{}
 3abb66d0effaebcf39833fa2332d84ee2daee75c	refs/tags/0.94
 ff02769271294639a3a91bef06c5a8b71fc55cfd	refs/tags/0.94^{}
+```
+
+https://github.com/procedural/procedural
+```
+f3b2b7692440abbdd81e71b1eafd8db14fd9ebdc	HEAD
+f3b2b7692440abbdd81e71b1eafd8db14fd9ebdc	refs/heads/main
 ```
 
 https://github.com/procedural/proctree
@@ -1641,14 +1687,14 @@ https://github.com/procedural/reiv_examples
 
 https://github.com/procedural/repos
 ```
-2dfc43e88c65205e9423c75021c45e3f4c419206	HEAD
-2dfc43e88c65205e9423c75021c45e3f4c419206	refs/heads/master
+b12a7790633866e7e305ef554bd6859cf3ed6f44	HEAD
+b12a7790633866e7e305ef554bd6859cf3ed6f44	refs/heads/master
 ```
 
 https://github.com/procedural/restir
 ```
-a3241e98a99e1f0c7edafc5008522d2bd173bfed	HEAD
-a3241e98a99e1f0c7edafc5008522d2bd173bfed	refs/heads/master
+87bfb77967c5eef8abbfb95679d0205b7f67ee56	HEAD
+87bfb77967c5eef8abbfb95679d0205b7f67ee56	refs/heads/master
 ```
 
 https://github.com/procedural/rev
@@ -2140,6 +2186,13 @@ https://github.com/procedural/vez
 29d2229e44ee692f74a33b698c80273ebcc67c3e	HEAD
 5b94c85612138f79af646f49538db9e66cbe2f5c	refs/heads/gh-pages
 29d2229e44ee692f74a33b698c80273ebcc67c3e	refs/heads/master
+```
+
+https://github.com/procedural/vkd3d
+```
+1c7df3f50a09ce85ed4c5b84c5291d022b9987fb	HEAD
+1c7df3f50a09ce85ed4c5b84c5291d022b9987fb	refs/heads/master
+1c7df3f50a09ce85ed4c5b84c5291d022b9987fb	refs/tags/1c7df3f
 ```
 
 https://github.com/procedural/vk_denoise
